@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="LoginViewSample.Core.Views.MainPage">
+
+    <RelativeLayout BackgroundColor="#d3cac1">
+        <Image Aspect="AspectFill"  Source="clothesOnRack4.jpg" Opacity="0.7" TranslationY="100"
+               RelativeLayout.WidthConstraint="{ConstraintExpression Type=RelativeToParent,Property=Width}"
+               RelativeLayout.HeightConstraint="{ConstraintExpression Type=RelativeToParent,Property=Height}"/>
+        <Grid RelativeLayout.WidthConstraint="{ConstraintExpression Type=RelativeToParent,Property=Width}"
+              RelativeLayout.HeightConstraint="{ConstraintExpression Type=RelativeToParent,Property=Height}">
+            <Button Text="Add new item" BackgroundColor="#db8f9b" TextColor="White" BorderColor="White" BorderWidth="2" FontAttributes="Bold" Command="{Binding AddNewItemCommand}" VerticalOptions="Start" HorizontalOptions="Center" Padding="15" Margin="50, 170, 50, 50" WidthRequest="170" HeightRequest="80" CornerRadius="15" TranslationX="-95" TranslationY="-35"/>
+            <Button Text="Change Item Location" BackgroundColor="#db8f9b" TextColor="White" BorderColor="White" BorderWidth="2" FontAttributes="Bold" Command="{Binding ChangeLocationCommand}" VerticalOptions="Start" HorizontalOptions="Center" Padding="15"  WidthRequest="170" Margin="50, 255, 50, 50" HeightRequest="80" CornerRadius="15" TranslationX="95" TranslationY="-120"  />
+            <Button Text="Add Item Image" BackgroundColor="#db8f9b" TextColor="White" BorderColor="White" BorderWidth="2" FontAttributes="Bold" Command="{Binding AddItemImageCommand}" VerticalOptions="Start" HorizontalOptions="Center" Padding="15"  WidthRequest="170" Margin="50, 435, 50, 50" HeightRequest="80" CornerRadius="15" TranslationX="-95" TranslationY="-195" />
+            <Button Text="Show Item Locations" BackgroundColor="#db8f9b" TextColor="White" BorderColor="White" BorderWidth="2" FontAttributes="Bold" Command="{Binding ShowItemLocationCommand}" VerticalOptions="Start" HorizontalOptions="Center" Padding="15"  WidthRequest="170" Margin="50, 345, 50, 50" HeightRequest="80" CornerRadius="15" TranslationX="95" TranslationY="-105"/>
+
+            <Button Text="Logout" BackgroundColor="#d1bcc3" TextColor="White"  FontAttributes="Bold" Command="{Binding LogoutCommand}" VerticalOptions="End" Padding="15"  WidthRequest="150" />
+        </Grid>
+
+        <Label Text="Welcome to WearIsIt!" HorizontalOptions="Center" TextColor="Black"  FontSize="31" FontFamily="Pacifico.ttf#Pacifico" FontAttributes="Bold" TranslationY="12" Margin="40,18, 40, 40"/>
+    </RelativeLayout>
+</ContentPage>
+    
+    
+
+    

@@ -1,0 +1,69 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" 
+             xmlns:namespace="clr-namespace:CustomerApp.ImagesSearchResults"
+             x:Class="CustomerApp.Views.SearchResultsPage"
+             BackgroundImageSource="{Binding BackgroundImage}">
+
+    <NavigationPage.TitleView>
+        <Label Text="Search Results" FontSize="18" TextColor="White" FontAttributes="Bold"/>
+    </NavigationPage.TitleView>
+
+    <Page.Resources>
+        <namespace:MyImageConverter x:Key="MyImageConverter"/>
+    </Page.Resources>
+
+
+    <StackLayout Margin="20" >
+        <Label Text="{Binding NoItems}" FontSize="Large" Margin="{Binding MarginNoItems}"/>
+        <Grid >
+            <Grid.RowDefinitions>
+                <RowDefinition Height="Auto"/>
+                <RowDefinition Height="Auto"/>
+            </Grid.RowDefinitions>
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="Auto"/>
+                <ColumnDefinition Width="Auto"/>
+            </Grid.ColumnDefinitions>
+        </Grid>
+        
+        <CollectionView x:Name="ItemCollection" ItemsSource="{Binding ItemsToShow}"
+                        SelectionMode="Single"
+                        SelectionChanged="OnCollectionViewSelectionChanged">
+            <CollectionView.ItemTemplate>
+                <DataTemplate>
+                    <Grid  Padding="10">
+                        <Grid.RowDefinitions>
+                            <RowDefinition Height="Auto"/>
+                            <RowDefinition Height="Auto"/>
+                        </Grid.RowDefinitions>
+                        <Grid.ColumnDefinitions>
+                            <ColumnDefinition Width="Auto"/>
+                            <ColumnDefinition Width="Auto"/>
+                        </Grid.ColumnDefinitions>
+
+                        <Image Grid.RowSpan="2" 
+                               Source="{Binding ImageUrl}" 
+                               Aspect="AspectFill"
+                               HeightRequest="60" 
+                               WidthRequest="60"/>
+                        <Label x:Name="ItemLabel"
+                               Grid.Column="1" 
+                               Text="{Binding Name}" 
+                               FontAttributes="Bold"/>
+                        <Label Grid.Row="1"
+                               Grid.Column="1" 
+                               Text="{Binding Location}"
+                               FontAttributes="Italic" 
+                               VerticalOptions="End"/>
+                        <Button ImageSource="{Binding IsFavorite, Converter={StaticResource MyImageConverter}}"
+                                Grid.Column="3" 
+                                BackgroundColor="Transparent" 
+                                Clicked="OnClick_AddToFav"/>
+
+                    </Grid>
+                </DataTemplate>
+            </CollectionView.ItemTemplate>
+        </CollectionView>
+    </StackLayout>
+</ContentPage>

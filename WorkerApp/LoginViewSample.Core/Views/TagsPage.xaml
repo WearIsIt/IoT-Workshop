@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="LoginViewSample.Core.Views.TagsPage"
+		     xmlns:dltag="clr-namespace:LoginViewSample.Core.Settings;assembly=LoginViewSample.Core"
+             NavigationPage.HasNavigationBar="True"
+             Title="Add or Delete tags"
+             BackgroundImageSource="hangersBackground2.jpg" Opacity="0.7">
+
+    <ContentPage.ToolbarItems>
+        <ToolbarItem Icon="checkMark.png" Activated="RefButtonClicked"></ToolbarItem>
+    </ContentPage.ToolbarItems>
+
+    <ContentPage.Content>
+
+        <dltag:TagEntryView TagItems="{Binding Items}" TagTappedCommand="{Binding RemoveTagCommand}" TagValidatorFactory="{StaticResource TagValidatorFactory}" ShowEntryBox="true" Margin="50, 20, 50, 50" AllowKeyboardReturnToAddNewTag="true">
+            <dltag:TagEntryView.TagItemTemplate>
+                <DataTemplate>
+                    <Frame BackgroundColor="#5E5C59"  OutlineColor="Transparent" Padding="10" HasShadow="false">
+                        <Label Text="{Binding Name}" FontAttributes="Bold" TextColor="White"/>
+                    </Frame>
+                </DataTemplate>
+            </dltag:TagEntryView.TagItemTemplate>
+        </dltag:TagEntryView>
+    </ContentPage.Content>
+</ContentPage>

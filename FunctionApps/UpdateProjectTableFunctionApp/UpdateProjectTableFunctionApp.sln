@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31129.286
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UpdateProjectTableFunctionApp", "UpdateProjectTableFunctionApp\UpdateProjectTableFunctionApp.csproj", "{2EC24D5A-A1B7-4FF3-A21E-85F6029D1607}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2EC24D5A-A1B7-4FF3-A21E-85F6029D1607}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2EC24D5A-A1B7-4FF3-A21E-85F6029D1607}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2EC24D5A-A1B7-4FF3-A21E-85F6029D1607}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2EC24D5A-A1B7-4FF3-A21E-85F6029D1607}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B490C0FD-ACCD-40CD-85AD-CFAD7DEBA182}
+	EndGlobalSection
+EndGlobal

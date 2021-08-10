@@ -1,0 +1,49 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+  </PropertyGroup>
+
+
+	<ItemGroup>
+    <PackageReference Include="LiveXAML" Version="2.1.73" />
+    <PackageReference Include="Microsoft.Azure.Cosmos.Table" Version="1.0.8" />
+    <PackageReference Include="Microsoft.Azure.Devices.Client" Version="1.25.0" />
+    <PackageReference Include="UXDivers.Effects" Version="0.6.3" />
+    <PackageReference Include="UXDivers.GorillaPlayer.SDK" Version="1.5.5" />
+    <PackageReference Include="Xamanimation" Version="1.3.0" />
+    <PackageReference Include="Xamarin.Essentials" Version="1.6.1" />
+    <PackageReference Include="Xamarin.Forms" Version="4.5.0.356" />
+    <PackageReference Include="Xamarin.Forms.Visual.Material" Version="4.1.0.618606" />
+    <PackageReference Include="Xamvvm.Forms" Version="1.0.4" />
+    <PackageReference Include="ZXing.Net.Mobile" Version="2.4.1" />
+    <PackageReference Include="ZXing.Net.Mobile.Forms" Version="2.4.1" />
+
+	  <PackageReference Include="Microsoft.Azure.CognitiveServices.Vision.ComputerVision" Version="5.0.0" />
+	  <PackageReference Include="Plugin.Permissions" Version="3.0.0.12" />
+	  <PackageReference Include="Xam.Plugin.Media" Version="4.0.1.5" />
+	  <PackageReference Include="Acr.UserDialogs" Version="7.0.4" />
+
+	  <PackageReference Include="Microsoft.Azure.Storage.Blob" Version="11.2.2" />
+	  <PackageReference Include="Nancy" Version="2.0.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <EmbeddedResource Update="Views\AddImagePage.xaml">
+      <Generator>MSBuild:UpdateDesignTimeXaml</Generator>
+    </EmbeddedResource>
+    <EmbeddedResource Update="Views\ItemLocationPage.xaml">
+      <Generator>MSBuild:UpdateDesignTimeXaml</Generator>
+    </EmbeddedResource>
+    <EmbeddedResource Update="Views\ScannerPage.xaml">
+      <Generator>MSBuild:UpdateDesignTimeXaml</Generator>
+    </EmbeddedResource>
+    <EmbeddedResource Update="Views\SelectLocationPage.xaml">
+      <Generator>MSBuild:UpdateDesignTimeXaml</Generator>
+    </EmbeddedResource>
+    <EmbeddedResource Update="Views\TagsPage.xaml">
+      <Generator>MSBuild:UpdateDesignTimeXaml</Generator>
+    </EmbeddedResource>
+  </ItemGroup>
+
+</Project>

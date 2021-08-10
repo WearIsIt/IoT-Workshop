@@ -1,0 +1,2 @@
+C:\Users\Hadas\source\repos\CustomerApp\CustomerApp\CustomerApp\obj\Debug\netcoreapp3.1\CustomerApp.csprojAssemblyReference.cache
+C:\Users\Hadas\source\repos\CustomerApp\CustomerApp\CustomerApp\obj\Debug\netcoreapp3.1\CustomerApp_MarkupCompile.cache

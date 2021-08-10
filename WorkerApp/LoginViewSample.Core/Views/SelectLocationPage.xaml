@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="LoginViewSample.Core.Views.SelectLocationPage">
+
+    <RelativeLayout BackgroundColor="AntiqueWhite" >
+        <Image Aspect="AspectFill"  Source="Backgroundblackandwhiteimage.png" Opacity="0.6"
+               RelativeLayout.WidthConstraint="{ConstraintExpression Type=RelativeToParent,Property=Width}"
+               RelativeLayout.HeightConstraint="{ConstraintExpression Type=RelativeToParent,Property=Height}"/>
+
+        <StackLayout Margin="20,40,20,20">
+            <Picker x:Name="PickerLocation" Title="Select a Location"
+                TitleColor="#9e737a"
+                FontSize="28"
+                FontAttributes="Bold"
+                SelectedIndexChanged="OnPickerSelectedIndexChanged">
+                <Picker.Items>
+                    <x:String>Storeroom</x:String>
+                    <x:String>Fitting Room</x:String>
+                    <x:String>Stand</x:String>
+                    <x:String>Sold</x:String>
+                </Picker.Items>
+            </Picker>
+            <StackLayout Orientation="Horizontal">
+                <Label x:Name="LocationNameLabel" FontSize="18" />
+            </StackLayout>
+        </StackLayout>
+
+        <StackLayout Margin="10,640,0,20">
+            <Grid RelativeLayout.WidthConstraint="{ConstraintExpression Type=RelativeToParent,Property=Width}"
+              RelativeLayout.HeightConstraint="{ConstraintExpression Type=RelativeToParent,Property=Height}">
+                <Button x:Name="DoneChoosingButton" Text="Done Choosing" BackgroundColor="#E2A5AF" BorderColor="White" BorderWidth="2" CornerRadius="5" TextColor="White" FontAttributes="Bold" Clicked="DoneChoosingButton_Clicked" IsEnabled="false"  VerticalOptions="Center" HorizontalOptions="Start" Padding="15"  WidthRequest="170" Margin="20,3,50,50" HeightRequest="70"/>
+                <Button x:Name="AddImageButton" Text="Add Image" BackgroundColor="#E2A5AF" BorderColor="White" BorderWidth="2" CornerRadius="5" TextColor="White" FontAttributes="Bold" VerticalOptions="Center" Clicked="AddImageButton_Clicked" IsEnabled="false" HorizontalOptions="End" Padding="15"  WidthRequest="170" Margin="20,3,30,50" HeightRequest="70"/>
+            </Grid>
+        </StackLayout>
+    </RelativeLayout>
+</ContentPage>

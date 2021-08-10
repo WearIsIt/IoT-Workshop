@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<XamlProjectMeta xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Files>
+    <XamlFileMeta>
+      <FilePath>C:\Users\Hadas\Desktop\project- iot\CustomerApp0707\CustomerApp\CustomerApp\App.xaml</FilePath>
+      <Hash>3B-53-00-15-B8-DB-94-C8-6E-07-F0-6D-AD-09-A0-B9</Hash>
+      <Properties />
+    </XamlFileMeta>
+    <XamlFileMeta>
+      <FilePath>C:\Users\Hadas\Desktop\project- iot\CustomerApp0707\CustomerApp\CustomerApp\MainPage.xaml</FilePath>
+      <Hash>ED-41-6F-8C-FB-AB-37-C3-E4-61-13-D1-10-9B-BD-24</Hash>
+      <Properties />
+    </XamlFileMeta>
+    <XamlFileMeta>
+      <FilePath>C:\Users\Hadas\Desktop\project- iot\CustomerApp0707\CustomerApp\CustomerApp\Views\ChooseTagsPage.xaml</FilePath>
+      <Hash>C8-74-BB-4D-8A-87-CA-49-26-7F-A3-B7-9F-7C-C1-11</Hash>
+      <Properties>
+        <string>Padding</string>
+        <string>BackgroundImageSource</string>
+      </Properties>
+    </XamlFileMeta>
+    <XamlFileMeta>
+      <FilePath>C:\Users\Hadas\Desktop\project- iot\CustomerApp0707\CustomerApp\CustomerApp\Views\ItemLocationPage.xaml</FilePath>
+      <Hash>87-FF-03-3C-73-9C-AF-AB-81-9D-C4-BE-71-5B-2A-93</Hash>
+      <Properties />
+    </XamlFileMeta>
+    <XamlFileMeta>
+      <FilePath>C:\Users\Hadas\Desktop\project- iot\CustomerApp0707\CustomerApp\CustomerApp\Views\LeaderBoardPage.xaml</FilePath>
+      <Hash>21-7B-C1-48-12-46-DC-30-F0-31-31-20-52-6D-EC-E3</Hash>
+      <Properties>
+        <string>NavigationPage.HasBackButton</string>
+        <string>NavigationPage.HasNavigationBar</string>
+      </Properties>
+    </XamlFileMeta>
+    <XamlFileMeta>
+      <FilePath>C:\Users\Hadas\Desktop\project- iot\CustomerApp0707\CustomerApp\CustomerApp\Views\LoginPage.xaml</FilePath>
+      <Hash>CF-53-89-8E-BF-D8-CF-18-B1-8D-4A-7F-50-97-78-4F</Hash>
+      <Properties>
+        <string>BackgroundImageSource</string>
+      </Properties>
+    </XamlFileMeta>
+    <XamlFileMeta>
+      <FilePath>C:\Users\Hadas\Desktop\project- iot\CustomerApp0707\CustomerApp\CustomerApp\Views\MainPage.xaml</FilePath>
+      <Hash>52-85-EA-F3-DA-4F-EB-49-74-5E-60-1F-E8-C6-C6-2F</Hash>
+      <Properties />
+    </XamlFileMeta>
+    <XamlFileMeta>
+      <FilePath>C:\Users\Hadas\Desktop\project- iot\CustomerApp0707\CustomerApp\CustomerApp\Views\ScannerPage.xaml</FilePath>
+      <Hash>EC-6E-8C-E2-CD-F9-54-CB-D7-24-C7-85-E8-1A-5D-AA</Hash>
+      <Properties />
+    </XamlFileMeta>
+    <XamlFileMeta>
+      <FilePath>C:\Users\Hadas\Desktop\project- iot\CustomerApp0707\CustomerApp\CustomerApp\Views\SearchResultsPage.xaml</FilePath>
+      <Hash>C2-98-1B-8A-91-93-F2-D5-92-52-BE-0E-4F-92-D5-EA</Hash>
+      <Properties>
+        <string>BackgroundImageSource</string>
+      </Properties>
+    </XamlFileMeta>
+    <XamlFileMeta>
+      <FilePath>C:\Users\Hadas\Desktop\project- iot\CustomerApp0707\CustomerApp\CustomerApp\Views\SignUpPage.xaml</FilePath>
+      <Hash>5E-5A-D0-55-F6-6B-9D-57-C8-78-93-DB-86-EB-DF-A6</Hash>
+      <Properties />
+    </XamlFileMeta>
+    <XamlFileMeta>
+      <FilePath>C:\Users\Hadas\Desktop\project- iot\CustomerApp0707\CustomerApp\CustomerApp\Views\WelcomePage.xaml</FilePath>
+      <Hash>0D-95-56-E3-18-D0-84-4D-B6-05-66-EF-4B-64-D8-74</Hash>
+      <Properties>
+        <string>BackgroundColor</string>
+        <string>NavigationPage.HasNavigationBar</string>
+      </Properties>
+    </XamlFileMeta>
+    <XamlFileMeta>
+      <FilePath>C:\Users\Hadas\Desktop\project- iot\CustomerApp0707\CustomerApp\CustomerApp\Views\WishListPage.xaml</FilePath>
+      <Hash>01-79-7E-DF-F4-A1-EC-DB-9F-24-00-FB-46-8F-4D-F4</Hash>
+      <Properties>
+        <string>BackgroundImageSource</string>
+      </Properties>
+    </XamlFileMeta>
+  </Files>
+</XamlProjectMeta>

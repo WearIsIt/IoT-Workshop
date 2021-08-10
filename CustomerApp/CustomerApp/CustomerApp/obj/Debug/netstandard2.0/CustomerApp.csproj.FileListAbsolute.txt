@@ -1,0 +1,184 @@
+C:\Users\Hadas\source\repos\CustomerApp\CustomerApp\CustomerApp\obj\Debug\netstandard2.0\CustomerApp.csprojAssemblyReference.cache
+C:\Users\Hadas\source\repos\CustomerApp\CustomerApp\CustomerApp\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\Hadas\source\repos\CustomerApp\CustomerApp\CustomerApp\obj\Debug\netstandard2.0\Views\LoginPage.xaml.g.cs
+C:\Users\Hadas\source\repos\CustomerApp\CustomerApp\CustomerApp\obj\Debug\netstandard2.0\Views\MainPage.xaml.g.cs
+C:\Users\Hadas\source\repos\CustomerApp\CustomerApp\CustomerApp\obj\Debug\netstandard2.0\Views\ScannerPage.xaml.g.cs
+C:\Users\Hadas\source\repos\CustomerApp\CustomerApp\CustomerApp\obj\Debug\netstandard2.0\CustomerApp.AssemblyInfoInputs.cache
+C:\Users\Hadas\source\repos\CustomerApp\CustomerApp\CustomerApp\obj\Debug\netstandard2.0\CustomerApp.AssemblyInfo.cs
+C:\Users\Hadas\source\repos\CustomerApp\CustomerApp\CustomerApp\obj\Debug\netstandard2.0\CustomerApp.csproj.CoreCompileInputs.cache
+C:\Users\Hadas\source\repos\CustomerApp\CustomerApp\CustomerApp\obj\Debug\netstandard2.0\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Hadas\source\repos\CustomerApp\CustomerApp\CustomerApp\obj\Debug\netstandard2.0\CustomerApp.dll
+C:\Users\Hadas\source\repos\CustomerApp\CustomerApp\CustomerApp\obj\Debug\netstandard2.0\CustomerApp.pdb
+C:\Users\Hadas\source\repos\CustomerApp\CustomerApp\CustomerApp\bin\Debug\netstandard2.0\CustomerApp.deps.json
+C:\Users\Hadas\source\repos\CustomerApp\CustomerApp\CustomerApp\bin\Debug\netstandard2.0\CustomerApp.dll
+C:\Users\Hadas\source\repos\CustomerApp\CustomerApp\CustomerApp\bin\Debug\netstandard2.0\CustomerApp.pdb
+C:\Users\Hadas\source\repos\CustomerApp\CustomerApp\CustomerApp\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Hadas\source\repos\CustomerApp\CustomerApp\CustomerApp\bin\Debug\netstandard2.0\ref\CustomerApp.dll
+C:\Users\Hadas\source\repos\CustomerApp\CustomerApp\CustomerApp\obj\Debug\netstandard2.0\ref\CustomerApp.dll
+C:\Users\Hadas\source\repos\CustomerApp\CustomerApp\CustomerApp\obj\Debug\netstandard2.0\Views\WelcomePage.xaml.g.cs
+C:\Users\Hadas\source\repos\CustomerApp\CustomerApp\CustomerApp\obj\Debug\netstandard2.0\Views\ItemLocationPage.xaml.g.cs
+C:\Users\Hadas\source\repos\CustomerApp\CustomerApp\CustomerApp\bin\Debug\netstandard2.0\PresentationCore.dll
+C:\Users\Hadas\source\repos\CustomerApp\CustomerApp\CustomerApp\bin\Debug\netstandard2.0\WindowsBase.dll
+C:\Users\Hadas\source\repos\CustomerApp\CustomerApp\CustomerApp\bin\Debug\netstandard2.0\UIAutomationProvider.dll
+C:\Users\Hadas\source\repos\CustomerApp\CustomerApp\CustomerApp\bin\Debug\netstandard2.0\System.Xaml.dll
+C:\Users\Hadas\source\repos\CustomerApp\CustomerApp\CustomerApp\bin\Debug\netstandard2.0\UIAutomationTypes.dll
+C:\Users\Hadas\source\repos\CustomerApp\CustomerApp\CustomerApp\bin\Debug\netstandard2.0\System.Windows.Input.Manipulations.dll
+C:\Users\Hadas\source\repos\CustomerApp\CustomerApp\CustomerApp\bin\Debug\netstandard2.0\System.Deployment.dll
+C:\Users\Hadas\source\repos\CustomerApp\CustomerApp\CustomerApp\bin\Debug\netstandard2.0\System.Security.dll
+C:\Users\Hadas\source\repos\CustomerApp\CustomerApp\CustomerApp\bin\Debug\netstandard2.0\Accessibility.dll
+C:\Users\Hadas\source\repos\CustomerApp\CustomerApp\CustomerApp\bin\Debug\netstandard2.0\System.Windows.Forms.dll
+C:\Users\Hadas\source\repos\CustomerApp\CustomerApp\CustomerApp\bin\Debug\netstandard2.0\System.Configuration.dll
+C:\Users\Hadas\source\repos\CustomerApp\CustomerApp\CustomerApp\bin\Debug\netstandard2.0\System.Runtime.Serialization.Formatters.Soap.dll
+C:\Users\Hadas\source\repos\CustomerApp\CustomerApp\CustomerApp\bin\Debug\netstandard2.0\PresentationCore.xml
+C:\Users\Hadas\source\repos\CustomerApp\CustomerApp\CustomerApp\bin\Debug\netstandard2.0\WindowsBase.xml
+C:\Users\Hadas\source\repos\CustomerApp\CustomerApp\CustomerApp\bin\Debug\netstandard2.0\UIAutomationProvider.xml
+C:\Users\Hadas\source\repos\CustomerApp\CustomerApp\CustomerApp\bin\Debug\netstandard2.0\System.Xaml.xml
+C:\Users\Hadas\source\repos\CustomerApp\CustomerApp\CustomerApp\bin\Debug\netstandard2.0\UIAutomationTypes.xml
+C:\Users\Hadas\source\repos\CustomerApp\CustomerApp\CustomerApp\bin\Debug\netstandard2.0\System.Windows.Input.Manipulations.xml
+C:\Users\Hadas\source\repos\CustomerApp\CustomerApp\CustomerApp\bin\Debug\netstandard2.0\System.Deployment.xml
+C:\Users\Hadas\source\repos\CustomerApp\CustomerApp\CustomerApp\bin\Debug\netstandard2.0\System.Security.xml
+C:\Users\Hadas\source\repos\CustomerApp\CustomerApp\CustomerApp\bin\Debug\netstandard2.0\Accessibility.xml
+C:\Users\Hadas\source\repos\CustomerApp\CustomerApp\CustomerApp\bin\Debug\netstandard2.0\System.Windows.Forms.xml
+C:\Users\Hadas\source\repos\CustomerApp\CustomerApp\CustomerApp\bin\Debug\netstandard2.0\System.Configuration.xml
+C:\Users\Hadas\source\repos\CustomerApp\CustomerApp\CustomerApp\bin\Debug\netstandard2.0\System.Runtime.Serialization.Formatters.Soap.xml
+C:\Users\Hadas\source\repos\CustomerApp\CustomerApp\CustomerApp\obj\Debug\netstandard2.0\CustomerApp.csproj.CopyComplete
+C:\Users\Hadas\Desktop\project- iot\CustomerApp0607\CustomerApp\CustomerApp\obj\Debug\netstandard2.0\CustomerApp.csprojAssemblyReference.cache
+C:\Users\Hadas\Desktop\project- iot\CustomerApp0607\CustomerApp\CustomerApp\obj\Debug\netstandard2.0\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Hadas\Desktop\project- iot\CustomerApp0607\CustomerApp\CustomerApp\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\Hadas\Desktop\project- iot\CustomerApp0607\CustomerApp\CustomerApp\obj\Debug\netstandard2.0\Views\ItemLocationPage.xaml.g.cs
+C:\Users\Hadas\Desktop\project- iot\CustomerApp0607\CustomerApp\CustomerApp\obj\Debug\netstandard2.0\Views\LoginPage.xaml.g.cs
+C:\Users\Hadas\Desktop\project- iot\CustomerApp0607\CustomerApp\CustomerApp\obj\Debug\netstandard2.0\Views\MainPage.xaml.g.cs
+C:\Users\Hadas\Desktop\project- iot\CustomerApp0607\CustomerApp\CustomerApp\obj\Debug\netstandard2.0\Views\ScannerPage.xaml.g.cs
+C:\Users\Hadas\Desktop\project- iot\CustomerApp0607\CustomerApp\CustomerApp\obj\Debug\netstandard2.0\Views\WelcomePage.xaml.g.cs
+C:\Users\Hadas\Desktop\project- iot\CustomerApp0607\CustomerApp\CustomerApp\obj\Debug\netstandard2.0\CustomerApp.AssemblyInfoInputs.cache
+C:\Users\Hadas\Desktop\project- iot\CustomerApp0607\CustomerApp\CustomerApp\obj\Debug\netstandard2.0\CustomerApp.AssemblyInfo.cs
+C:\Users\Hadas\Desktop\project- iot\CustomerApp0607\CustomerApp\CustomerApp\obj\Debug\netstandard2.0\CustomerApp.csproj.CoreCompileInputs.cache
+C:\Users\Hadas\Desktop\project- iot\CustomerApp0607\CustomerApp\CustomerApp\obj\Debug\netstandard2.0\CustomerApp.dll
+C:\Users\Hadas\Desktop\project- iot\CustomerApp0607\CustomerApp\CustomerApp\obj\Debug\netstandard2.0\ref\CustomerApp.dll
+C:\Users\Hadas\Desktop\project- iot\CustomerApp0607\CustomerApp\CustomerApp\obj\Debug\netstandard2.0\CustomerApp.pdb
+C:\Users\Hadas\Desktop\project- iot\CustomerApp0607\CustomerApp\CustomerApp\bin\Debug\netstandard2.0\CustomerApp.deps.json
+C:\Users\Hadas\Desktop\project- iot\CustomerApp0607\CustomerApp\CustomerApp\bin\Debug\netstandard2.0\CustomerApp.dll
+C:\Users\Hadas\Desktop\project- iot\CustomerApp0607\CustomerApp\CustomerApp\bin\Debug\netstandard2.0\ref\CustomerApp.dll
+C:\Users\Hadas\Desktop\project- iot\CustomerApp0607\CustomerApp\CustomerApp\bin\Debug\netstandard2.0\CustomerApp.pdb
+C:\Users\Hadas\Desktop\project- iot\CustomerApp0607\CustomerApp\CustomerApp\bin\Debug\netstandard2.0\PresentationCore.dll
+C:\Users\Hadas\Desktop\project- iot\CustomerApp0607\CustomerApp\CustomerApp\bin\Debug\netstandard2.0\WindowsBase.dll
+C:\Users\Hadas\Desktop\project- iot\CustomerApp0607\CustomerApp\CustomerApp\bin\Debug\netstandard2.0\UIAutomationProvider.dll
+C:\Users\Hadas\Desktop\project- iot\CustomerApp0607\CustomerApp\CustomerApp\bin\Debug\netstandard2.0\System.Xaml.dll
+C:\Users\Hadas\Desktop\project- iot\CustomerApp0607\CustomerApp\CustomerApp\bin\Debug\netstandard2.0\UIAutomationTypes.dll
+C:\Users\Hadas\Desktop\project- iot\CustomerApp0607\CustomerApp\CustomerApp\bin\Debug\netstandard2.0\System.Windows.Input.Manipulations.dll
+C:\Users\Hadas\Desktop\project- iot\CustomerApp0607\CustomerApp\CustomerApp\bin\Debug\netstandard2.0\System.Deployment.dll
+C:\Users\Hadas\Desktop\project- iot\CustomerApp0607\CustomerApp\CustomerApp\bin\Debug\netstandard2.0\System.Security.dll
+C:\Users\Hadas\Desktop\project- iot\CustomerApp0607\CustomerApp\CustomerApp\bin\Debug\netstandard2.0\Accessibility.dll
+C:\Users\Hadas\Desktop\project- iot\CustomerApp0607\CustomerApp\CustomerApp\bin\Debug\netstandard2.0\System.Windows.Forms.dll
+C:\Users\Hadas\Desktop\project- iot\CustomerApp0607\CustomerApp\CustomerApp\bin\Debug\netstandard2.0\System.Configuration.dll
+C:\Users\Hadas\Desktop\project- iot\CustomerApp0607\CustomerApp\CustomerApp\bin\Debug\netstandard2.0\System.Runtime.Serialization.Formatters.Soap.dll
+C:\Users\Hadas\Desktop\project- iot\CustomerApp0607\CustomerApp\CustomerApp\bin\Debug\netstandard2.0\PresentationCore.xml
+C:\Users\Hadas\Desktop\project- iot\CustomerApp0607\CustomerApp\CustomerApp\bin\Debug\netstandard2.0\WindowsBase.xml
+C:\Users\Hadas\Desktop\project- iot\CustomerApp0607\CustomerApp\CustomerApp\bin\Debug\netstandard2.0\UIAutomationProvider.xml
+C:\Users\Hadas\Desktop\project- iot\CustomerApp0607\CustomerApp\CustomerApp\bin\Debug\netstandard2.0\System.Xaml.xml
+C:\Users\Hadas\Desktop\project- iot\CustomerApp0607\CustomerApp\CustomerApp\bin\Debug\netstandard2.0\UIAutomationTypes.xml
+C:\Users\Hadas\Desktop\project- iot\CustomerApp0607\CustomerApp\CustomerApp\bin\Debug\netstandard2.0\System.Windows.Input.Manipulations.xml
+C:\Users\Hadas\Desktop\project- iot\CustomerApp0607\CustomerApp\CustomerApp\bin\Debug\netstandard2.0\System.Deployment.xml
+C:\Users\Hadas\Desktop\project- iot\CustomerApp0607\CustomerApp\CustomerApp\bin\Debug\netstandard2.0\System.Security.xml
+C:\Users\Hadas\Desktop\project- iot\CustomerApp0607\CustomerApp\CustomerApp\bin\Debug\netstandard2.0\Accessibility.xml
+C:\Users\Hadas\Desktop\project- iot\CustomerApp0607\CustomerApp\CustomerApp\bin\Debug\netstandard2.0\System.Windows.Forms.xml
+C:\Users\Hadas\Desktop\project- iot\CustomerApp0607\CustomerApp\CustomerApp\bin\Debug\netstandard2.0\System.Configuration.xml
+C:\Users\Hadas\Desktop\project- iot\CustomerApp0607\CustomerApp\CustomerApp\bin\Debug\netstandard2.0\System.Runtime.Serialization.Formatters.Soap.xml
+C:\Users\Hadas\Desktop\project- iot\CustomerApp0607\CustomerApp\CustomerApp\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Hadas\Desktop\project- iot\CustomerApp0607\CustomerApp\CustomerApp\obj\Debug\netstandard2.0\CustomerApp.csproj.CopyComplete
+C:\Users\Hadas\Desktop\project- iot\CustomerApp0607\CustomerApp\CustomerApp\obj\Debug\netstandard2.0\Views\ChooseTagsPage.xaml.g.cs
+C:\Users\Hadas\Desktop\project- iot\CustomerApp0607_2300\CustomerApp\CustomerApp\bin\Debug\netstandard2.0\CustomerApp.deps.json
+C:\Users\Hadas\Desktop\project- iot\CustomerApp0607_2300\CustomerApp\CustomerApp\bin\Debug\netstandard2.0\CustomerApp.dll
+C:\Users\Hadas\Desktop\project- iot\CustomerApp0607_2300\CustomerApp\CustomerApp\bin\Debug\netstandard2.0\ref\CustomerApp.dll
+C:\Users\Hadas\Desktop\project- iot\CustomerApp0607_2300\CustomerApp\CustomerApp\bin\Debug\netstandard2.0\CustomerApp.pdb
+C:\Users\Hadas\Desktop\project- iot\CustomerApp0607_2300\CustomerApp\CustomerApp\bin\Debug\netstandard2.0\PresentationCore.dll
+C:\Users\Hadas\Desktop\project- iot\CustomerApp0607_2300\CustomerApp\CustomerApp\bin\Debug\netstandard2.0\WindowsBase.dll
+C:\Users\Hadas\Desktop\project- iot\CustomerApp0607_2300\CustomerApp\CustomerApp\bin\Debug\netstandard2.0\UIAutomationProvider.dll
+C:\Users\Hadas\Desktop\project- iot\CustomerApp0607_2300\CustomerApp\CustomerApp\bin\Debug\netstandard2.0\System.Xaml.dll
+C:\Users\Hadas\Desktop\project- iot\CustomerApp0607_2300\CustomerApp\CustomerApp\bin\Debug\netstandard2.0\UIAutomationTypes.dll
+C:\Users\Hadas\Desktop\project- iot\CustomerApp0607_2300\CustomerApp\CustomerApp\bin\Debug\netstandard2.0\System.Windows.Input.Manipulations.dll
+C:\Users\Hadas\Desktop\project- iot\CustomerApp0607_2300\CustomerApp\CustomerApp\bin\Debug\netstandard2.0\System.Deployment.dll
+C:\Users\Hadas\Desktop\project- iot\CustomerApp0607_2300\CustomerApp\CustomerApp\bin\Debug\netstandard2.0\System.Security.dll
+C:\Users\Hadas\Desktop\project- iot\CustomerApp0607_2300\CustomerApp\CustomerApp\bin\Debug\netstandard2.0\Accessibility.dll
+C:\Users\Hadas\Desktop\project- iot\CustomerApp0607_2300\CustomerApp\CustomerApp\bin\Debug\netstandard2.0\System.Windows.Forms.dll
+C:\Users\Hadas\Desktop\project- iot\CustomerApp0607_2300\CustomerApp\CustomerApp\bin\Debug\netstandard2.0\System.Configuration.dll
+C:\Users\Hadas\Desktop\project- iot\CustomerApp0607_2300\CustomerApp\CustomerApp\bin\Debug\netstandard2.0\System.Runtime.Serialization.Formatters.Soap.dll
+C:\Users\Hadas\Desktop\project- iot\CustomerApp0607_2300\CustomerApp\CustomerApp\bin\Debug\netstandard2.0\PresentationCore.xml
+C:\Users\Hadas\Desktop\project- iot\CustomerApp0607_2300\CustomerApp\CustomerApp\bin\Debug\netstandard2.0\WindowsBase.xml
+C:\Users\Hadas\Desktop\project- iot\CustomerApp0607_2300\CustomerApp\CustomerApp\bin\Debug\netstandard2.0\UIAutomationProvider.xml
+C:\Users\Hadas\Desktop\project- iot\CustomerApp0607_2300\CustomerApp\CustomerApp\bin\Debug\netstandard2.0\System.Xaml.xml
+C:\Users\Hadas\Desktop\project- iot\CustomerApp0607_2300\CustomerApp\CustomerApp\bin\Debug\netstandard2.0\UIAutomationTypes.xml
+C:\Users\Hadas\Desktop\project- iot\CustomerApp0607_2300\CustomerApp\CustomerApp\bin\Debug\netstandard2.0\System.Windows.Input.Manipulations.xml
+C:\Users\Hadas\Desktop\project- iot\CustomerApp0607_2300\CustomerApp\CustomerApp\bin\Debug\netstandard2.0\System.Deployment.xml
+C:\Users\Hadas\Desktop\project- iot\CustomerApp0607_2300\CustomerApp\CustomerApp\bin\Debug\netstandard2.0\System.Security.xml
+C:\Users\Hadas\Desktop\project- iot\CustomerApp0607_2300\CustomerApp\CustomerApp\bin\Debug\netstandard2.0\Accessibility.xml
+C:\Users\Hadas\Desktop\project- iot\CustomerApp0607_2300\CustomerApp\CustomerApp\bin\Debug\netstandard2.0\System.Windows.Forms.xml
+C:\Users\Hadas\Desktop\project- iot\CustomerApp0607_2300\CustomerApp\CustomerApp\bin\Debug\netstandard2.0\System.Configuration.xml
+C:\Users\Hadas\Desktop\project- iot\CustomerApp0607_2300\CustomerApp\CustomerApp\bin\Debug\netstandard2.0\System.Runtime.Serialization.Formatters.Soap.xml
+C:\Users\Hadas\Desktop\project- iot\CustomerApp0607_2300\CustomerApp\CustomerApp\obj\Debug\netstandard2.0\CustomerApp.csprojAssemblyReference.cache
+C:\Users\Hadas\Desktop\project- iot\CustomerApp0607_2300\CustomerApp\CustomerApp\obj\Debug\netstandard2.0\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Hadas\Desktop\project- iot\CustomerApp0607_2300\CustomerApp\CustomerApp\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\Hadas\Desktop\project- iot\CustomerApp0607_2300\CustomerApp\CustomerApp\obj\Debug\netstandard2.0\Views\ChooseTagsPage.xaml.g.cs
+C:\Users\Hadas\Desktop\project- iot\CustomerApp0607_2300\CustomerApp\CustomerApp\obj\Debug\netstandard2.0\Views\ItemLocationPage.xaml.g.cs
+C:\Users\Hadas\Desktop\project- iot\CustomerApp0607_2300\CustomerApp\CustomerApp\obj\Debug\netstandard2.0\Views\LoginPage.xaml.g.cs
+C:\Users\Hadas\Desktop\project- iot\CustomerApp0607_2300\CustomerApp\CustomerApp\obj\Debug\netstandard2.0\Views\MainPage.xaml.g.cs
+C:\Users\Hadas\Desktop\project- iot\CustomerApp0607_2300\CustomerApp\CustomerApp\obj\Debug\netstandard2.0\Views\ScannerPage.xaml.g.cs
+C:\Users\Hadas\Desktop\project- iot\CustomerApp0607_2300\CustomerApp\CustomerApp\obj\Debug\netstandard2.0\Views\SearchResultsPage.xaml.g.cs
+C:\Users\Hadas\Desktop\project- iot\CustomerApp0607_2300\CustomerApp\CustomerApp\obj\Debug\netstandard2.0\Views\WelcomePage.xaml.g.cs
+C:\Users\Hadas\Desktop\project- iot\CustomerApp0607_2300\CustomerApp\CustomerApp\obj\Debug\netstandard2.0\CustomerApp.AssemblyInfoInputs.cache
+C:\Users\Hadas\Desktop\project- iot\CustomerApp0607_2300\CustomerApp\CustomerApp\obj\Debug\netstandard2.0\CustomerApp.AssemblyInfo.cs
+C:\Users\Hadas\Desktop\project- iot\CustomerApp0607_2300\CustomerApp\CustomerApp\obj\Debug\netstandard2.0\CustomerApp.csproj.CoreCompileInputs.cache
+C:\Users\Hadas\Desktop\project- iot\CustomerApp0607_2300\CustomerApp\CustomerApp\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Hadas\Desktop\project- iot\CustomerApp0607_2300\CustomerApp\CustomerApp\obj\Debug\netstandard2.0\CustomerApp.csproj.CopyComplete
+C:\Users\Hadas\Desktop\project- iot\CustomerApp0607_2300\CustomerApp\CustomerApp\obj\Debug\netstandard2.0\CustomerApp.dll
+C:\Users\Hadas\Desktop\project- iot\CustomerApp0607_2300\CustomerApp\CustomerApp\obj\Debug\netstandard2.0\ref\CustomerApp.dll
+C:\Users\Hadas\Desktop\project- iot\CustomerApp0607_2300\CustomerApp\CustomerApp\obj\Debug\netstandard2.0\CustomerApp.pdb
+C:\Users\Hadas\Desktop\project- iot\CustomerApp0707\CustomerApp\CustomerApp\bin\Debug\netstandard2.0\CustomerApp.deps.json
+C:\Users\Hadas\Desktop\project- iot\CustomerApp0707\CustomerApp\CustomerApp\bin\Debug\netstandard2.0\CustomerApp.dll
+C:\Users\Hadas\Desktop\project- iot\CustomerApp0707\CustomerApp\CustomerApp\bin\Debug\netstandard2.0\ref\CustomerApp.dll
+C:\Users\Hadas\Desktop\project- iot\CustomerApp0707\CustomerApp\CustomerApp\bin\Debug\netstandard2.0\CustomerApp.pdb
+C:\Users\Hadas\Desktop\project- iot\CustomerApp0707\CustomerApp\CustomerApp\bin\Debug\netstandard2.0\PresentationCore.dll
+C:\Users\Hadas\Desktop\project- iot\CustomerApp0707\CustomerApp\CustomerApp\bin\Debug\netstandard2.0\WindowsBase.dll
+C:\Users\Hadas\Desktop\project- iot\CustomerApp0707\CustomerApp\CustomerApp\bin\Debug\netstandard2.0\UIAutomationProvider.dll
+C:\Users\Hadas\Desktop\project- iot\CustomerApp0707\CustomerApp\CustomerApp\bin\Debug\netstandard2.0\System.Xaml.dll
+C:\Users\Hadas\Desktop\project- iot\CustomerApp0707\CustomerApp\CustomerApp\bin\Debug\netstandard2.0\UIAutomationTypes.dll
+C:\Users\Hadas\Desktop\project- iot\CustomerApp0707\CustomerApp\CustomerApp\bin\Debug\netstandard2.0\System.Windows.Input.Manipulations.dll
+C:\Users\Hadas\Desktop\project- iot\CustomerApp0707\CustomerApp\CustomerApp\bin\Debug\netstandard2.0\System.Deployment.dll
+C:\Users\Hadas\Desktop\project- iot\CustomerApp0707\CustomerApp\CustomerApp\bin\Debug\netstandard2.0\System.Security.dll
+C:\Users\Hadas\Desktop\project- iot\CustomerApp0707\CustomerApp\CustomerApp\bin\Debug\netstandard2.0\Accessibility.dll
+C:\Users\Hadas\Desktop\project- iot\CustomerApp0707\CustomerApp\CustomerApp\bin\Debug\netstandard2.0\System.Windows.Forms.dll
+C:\Users\Hadas\Desktop\project- iot\CustomerApp0707\CustomerApp\CustomerApp\bin\Debug\netstandard2.0\System.Configuration.dll
+C:\Users\Hadas\Desktop\project- iot\CustomerApp0707\CustomerApp\CustomerApp\bin\Debug\netstandard2.0\System.Runtime.Serialization.Formatters.Soap.dll
+C:\Users\Hadas\Desktop\project- iot\CustomerApp0707\CustomerApp\CustomerApp\bin\Debug\netstandard2.0\PresentationCore.xml
+C:\Users\Hadas\Desktop\project- iot\CustomerApp0707\CustomerApp\CustomerApp\bin\Debug\netstandard2.0\WindowsBase.xml
+C:\Users\Hadas\Desktop\project- iot\CustomerApp0707\CustomerApp\CustomerApp\bin\Debug\netstandard2.0\UIAutomationProvider.xml
+C:\Users\Hadas\Desktop\project- iot\CustomerApp0707\CustomerApp\CustomerApp\bin\Debug\netstandard2.0\System.Xaml.xml
+C:\Users\Hadas\Desktop\project- iot\CustomerApp0707\CustomerApp\CustomerApp\bin\Debug\netstandard2.0\UIAutomationTypes.xml
+C:\Users\Hadas\Desktop\project- iot\CustomerApp0707\CustomerApp\CustomerApp\bin\Debug\netstandard2.0\System.Windows.Input.Manipulations.xml
+C:\Users\Hadas\Desktop\project- iot\CustomerApp0707\CustomerApp\CustomerApp\bin\Debug\netstandard2.0\System.Deployment.xml
+C:\Users\Hadas\Desktop\project- iot\CustomerApp0707\CustomerApp\CustomerApp\bin\Debug\netstandard2.0\System.Security.xml
+C:\Users\Hadas\Desktop\project- iot\CustomerApp0707\CustomerApp\CustomerApp\bin\Debug\netstandard2.0\Accessibility.xml
+C:\Users\Hadas\Desktop\project- iot\CustomerApp0707\CustomerApp\CustomerApp\bin\Debug\netstandard2.0\System.Windows.Forms.xml
+C:\Users\Hadas\Desktop\project- iot\CustomerApp0707\CustomerApp\CustomerApp\bin\Debug\netstandard2.0\System.Configuration.xml
+C:\Users\Hadas\Desktop\project- iot\CustomerApp0707\CustomerApp\CustomerApp\bin\Debug\netstandard2.0\System.Runtime.Serialization.Formatters.Soap.xml
+C:\Users\Hadas\Desktop\project- iot\CustomerApp0707\CustomerApp\CustomerApp\obj\Debug\netstandard2.0\CustomerApp.csprojAssemblyReference.cache
+C:\Users\Hadas\Desktop\project- iot\CustomerApp0707\CustomerApp\CustomerApp\obj\Debug\netstandard2.0\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Hadas\Desktop\project- iot\CustomerApp0707\CustomerApp\CustomerApp\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\Hadas\Desktop\project- iot\CustomerApp0707\CustomerApp\CustomerApp\obj\Debug\netstandard2.0\Views\ChooseTagsPage.xaml.g.cs
+C:\Users\Hadas\Desktop\project- iot\CustomerApp0707\CustomerApp\CustomerApp\obj\Debug\netstandard2.0\Views\ItemLocationPage.xaml.g.cs
+C:\Users\Hadas\Desktop\project- iot\CustomerApp0707\CustomerApp\CustomerApp\obj\Debug\netstandard2.0\Views\LoginPage.xaml.g.cs
+C:\Users\Hadas\Desktop\project- iot\CustomerApp0707\CustomerApp\CustomerApp\obj\Debug\netstandard2.0\Views\MainPage.xaml.g.cs
+C:\Users\Hadas\Desktop\project- iot\CustomerApp0707\CustomerApp\CustomerApp\obj\Debug\netstandard2.0\Views\ScannerPage.xaml.g.cs
+C:\Users\Hadas\Desktop\project- iot\CustomerApp0707\CustomerApp\CustomerApp\obj\Debug\netstandard2.0\Views\SearchResultsPage.xaml.g.cs
+C:\Users\Hadas\Desktop\project- iot\CustomerApp0707\CustomerApp\CustomerApp\obj\Debug\netstandard2.0\Views\WelcomePage.xaml.g.cs
+C:\Users\Hadas\Desktop\project- iot\CustomerApp0707\CustomerApp\CustomerApp\obj\Debug\netstandard2.0\CustomerApp.AssemblyInfoInputs.cache
+C:\Users\Hadas\Desktop\project- iot\CustomerApp0707\CustomerApp\CustomerApp\obj\Debug\netstandard2.0\CustomerApp.AssemblyInfo.cs
+C:\Users\Hadas\Desktop\project- iot\CustomerApp0707\CustomerApp\CustomerApp\obj\Debug\netstandard2.0\CustomerApp.csproj.CoreCompileInputs.cache
+C:\Users\Hadas\Desktop\project- iot\CustomerApp0707\CustomerApp\CustomerApp\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Hadas\Desktop\project- iot\CustomerApp0707\CustomerApp\CustomerApp\obj\Debug\netstandard2.0\CustomerApp.csproj.CopyComplete
+C:\Users\Hadas\Desktop\project- iot\CustomerApp0707\CustomerApp\CustomerApp\obj\Debug\netstandard2.0\CustomerApp.dll
+C:\Users\Hadas\Desktop\project- iot\CustomerApp0707\CustomerApp\CustomerApp\obj\Debug\netstandard2.0\ref\CustomerApp.dll
+C:\Users\Hadas\Desktop\project- iot\CustomerApp0707\CustomerApp\CustomerApp\obj\Debug\netstandard2.0\CustomerApp.pdb
+C:\Users\Hadas\Desktop\project- iot\CustomerApp0707\CustomerApp\CustomerApp\obj\Debug\netstandard2.0\Views\WishListPage.xaml.g.cs
+C:\Users\Hadas\Desktop\project- iot\CustomerApp0707\CustomerApp\CustomerApp\obj\Debug\netstandard2.0\Views\SignUpPage.xaml.g.cs
+C:\Users\Hadas\Desktop\project- iot\CustomerApp0707\CustomerApp\CustomerApp\obj\Debug\netstandard2.0\Views\LeaderBoardPage.xaml.g.cs

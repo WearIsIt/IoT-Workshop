@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="CustomerApp.Views.MainPage">
+
+    <RelativeLayout BackgroundColor="AntiqueWhite">
+        <Image Aspect="AspectFill"  Source="clotherblackandwhite.jpeg" Opacity="0.7"
+               RelativeLayout.WidthConstraint="{ConstraintExpression Type=RelativeToParent,Property=Width}"
+               RelativeLayout.HeightConstraint="{ConstraintExpression Type=RelativeToParent,Property=Height}"/>
+        <Grid RelativeLayout.WidthConstraint="{ConstraintExpression Type=RelativeToParent,Property=Width}"
+              RelativeLayout.HeightConstraint="{ConstraintExpression Type=RelativeToParent,Property=Height}">
+
+            <Button Text="Show Item Locations" BackgroundColor="Pink" BorderWidth="1" BorderColor="Black" TextColor="black" FontAttributes="Bold" Command="{Binding ShowItemLocationCommand}" VerticalOptions="Start" HorizontalOptions="Center" Padding="15" Margin="50, 170, 50, 50" WidthRequest="170" HeightRequest="70" CornerRadius="5"/>
+            <Button Text="Search Items" BackgroundColor="Pink" BorderWidth="1" BorderColor="black" TextColor="Black" FontAttributes="Bold" Command="{Binding SearchItemsCommand}" VerticalOptions="Start" HorizontalOptions="Center" Padding="15" WidthRequest="170" Margin="50, 260, 50, 50" HeightRequest="70" CornerRadius="5"/>
+            <Button x:Name="LogoutButton" Text="Logout" BackgroundColor="#db8f9b" TextColor="White" FontAttributes="Bold" Command="{Binding LogoutCommand}" VerticalOptions="End" Padding="15"  WidthRequest="150" />
+
+            <Button x:Name="SignUpButton" Text="Sign Up" BackgroundColor="#db8f9b" BorderColor="White" BorderWidth="2" CornerRadius="5" TextColor="White" FontAttributes="Bold" Command="{Binding SignUpCommand}" VerticalOptions="End" Padding="15" WidthRequest="170" Margin="15, 300, 210, 0"/>
+            <Button x:Name="LoginButton" Text="Login" BackgroundColor="#db8f9b" BorderColor="White" TextColor="White" BorderWidth="2" CornerRadius="5" FontAttributes="Bold" Command="{Binding LoginCommand}" VerticalOptions="End" Padding="15" WidthRequest="100" Margin="220, 345, 18, 0"/>
+
+            <Button Text="Top Items" BackgroundColor="Pink"  BorderWidth="1" BorderColor="Black" TextColor="Black" FontAttributes="Bold" Command="{Binding TopItemsCommand}" VerticalOptions="Start" HorizontalOptions="Center" Padding="15"  WidthRequest="170"  Margin="50, 350, 50, 50" HeightRequest="70" CornerRadius="5"/>
+            <Button Text="Wishlist" BackgroundColor="Pink" BorderWidth="1" BorderColor="Black" Clicked="WishList_Clicked" TextColor="Black" FontAttributes="Bold" VerticalOptions="Start" Padding="15"  WidthRequest="170"  HorizontalOptions="Center" Margin="50, 440, 50, 50"  HeightRequest="70" CornerRadius="5"/>
+        </Grid>
+
+        <Label Text="Welcome to WearIsIt!" HorizontalOptions="Center" TextColor="Black"  FontSize="31.5" FontFamily="Pacifico.ttf#Pacifico" FontAttributes="Bold" Margin="40,18, 40, 40" TranslationY="3"/>
+    </RelativeLayout>
+</ContentPage>
+
+
+    
+
+

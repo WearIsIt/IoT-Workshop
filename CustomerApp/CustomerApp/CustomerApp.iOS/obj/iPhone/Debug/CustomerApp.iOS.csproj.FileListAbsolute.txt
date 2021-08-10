@@ -1,0 +1,525 @@
+C:\Users\Hadas\source\repos\CustomerApp\CustomerApp\CustomerApp.iOS\bin\iPhone\Debug\CustomerApp.iOS.exe
+C:\Users\Hadas\source\repos\CustomerApp\CustomerApp\CustomerApp.iOS\bin\iPhone\Debug\CustomerApp.iOS.pdb
+C:\Users\Hadas\source\repos\CustomerApp\CustomerApp\CustomerApp.iOS\bin\iPhone\Debug\DotNetty.Buffers.dll
+C:\Users\Hadas\source\repos\CustomerApp\CustomerApp\CustomerApp.iOS\bin\iPhone\Debug\DotNetty.Codecs.dll
+C:\Users\Hadas\source\repos\CustomerApp\CustomerApp\CustomerApp.iOS\bin\iPhone\Debug\DotNetty.Codecs.Mqtt.dll
+C:\Users\Hadas\source\repos\CustomerApp\CustomerApp\CustomerApp.iOS\bin\iPhone\Debug\DotNetty.Common.dll
+C:\Users\Hadas\source\repos\CustomerApp\CustomerApp\CustomerApp.iOS\bin\iPhone\Debug\DotNetty.Handlers.dll
+C:\Users\Hadas\source\repos\CustomerApp\CustomerApp\CustomerApp.iOS\bin\iPhone\Debug\DotNetty.Transport.dll
+C:\Users\Hadas\source\repos\CustomerApp\CustomerApp\CustomerApp.iOS\bin\iPhone\Debug\Microsoft.Azure.Amqp.dll
+C:\Users\Hadas\source\repos\CustomerApp\CustomerApp\CustomerApp.iOS\bin\iPhone\Debug\Microsoft.Azure.Cosmos.Table.dll
+C:\Users\Hadas\source\repos\CustomerApp\CustomerApp\CustomerApp.iOS\bin\iPhone\Debug\Microsoft.Azure.Devices.Client.dll
+C:\Users\Hadas\source\repos\CustomerApp\CustomerApp\CustomerApp.iOS\bin\iPhone\Debug\Microsoft.Azure.Devices.Shared.dll
+C:\Users\Hadas\source\repos\CustomerApp\CustomerApp\CustomerApp.iOS\bin\iPhone\Debug\Microsoft.Azure.DocumentDB.Core.dll
+C:\Users\Hadas\source\repos\CustomerApp\CustomerApp\CustomerApp.iOS\bin\iPhone\Debug\Microsoft.Azure.KeyVault.Core.dll
+C:\Users\Hadas\source\repos\CustomerApp\CustomerApp\CustomerApp.iOS\bin\iPhone\Debug\Microsoft.Azure.Storage.Blob.dll
+C:\Users\Hadas\source\repos\CustomerApp\CustomerApp\CustomerApp.iOS\bin\iPhone\Debug\Microsoft.Azure.Storage.Common.dll
+C:\Users\Hadas\source\repos\CustomerApp\CustomerApp\CustomerApp.iOS\bin\iPhone\Debug\Microsoft.Bot.Configuration.dll
+C:\Users\Hadas\source\repos\CustomerApp\CustomerApp\CustomerApp.iOS\bin\iPhone\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Hadas\source\repos\CustomerApp\CustomerApp\CustomerApp.iOS\bin\iPhone\Debug\Microsoft.Extensions.Logging.dll
+C:\Users\Hadas\source\repos\CustomerApp\CustomerApp\CustomerApp.iOS\bin\iPhone\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Hadas\source\repos\CustomerApp\CustomerApp\CustomerApp.iOS\bin\iPhone\Debug\Microsoft.OData.Core.dll
+C:\Users\Hadas\source\repos\CustomerApp\CustomerApp\CustomerApp.iOS\bin\iPhone\Debug\Microsoft.OData.Edm.dll
+C:\Users\Hadas\source\repos\CustomerApp\CustomerApp\CustomerApp.iOS\bin\iPhone\Debug\Microsoft.Spatial.dll
+C:\Users\Hadas\source\repos\CustomerApp\CustomerApp\CustomerApp.iOS\bin\iPhone\Debug\Microsoft.Win32.Registry.dll
+C:\Users\Hadas\source\repos\CustomerApp\CustomerApp\CustomerApp.iOS\bin\iPhone\Debug\Newtonsoft.Json.dll
+C:\Users\Hadas\source\repos\CustomerApp\CustomerApp\CustomerApp.iOS\bin\iPhone\Debug\System.Buffers.dll
+C:\Users\Hadas\source\repos\CustomerApp\CustomerApp\CustomerApp.iOS\bin\iPhone\Debug\System.Collections.Immutable.dll
+C:\Users\Hadas\source\repos\CustomerApp\CustomerApp\CustomerApp.iOS\bin\iPhone\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\Hadas\source\repos\CustomerApp\CustomerApp\CustomerApp.iOS\bin\iPhone\Debug\System.Diagnostics.TraceSource.dll
+C:\Users\Hadas\source\repos\CustomerApp\CustomerApp\CustomerApp.iOS\bin\iPhone\Debug\System.Globalization.Extensions.dll
+C:\Users\Hadas\source\repos\CustomerApp\CustomerApp\CustomerApp.iOS\bin\iPhone\Debug\System.Net.Http.dll
+C:\Users\Hadas\source\repos\CustomerApp\CustomerApp\CustomerApp.iOS\bin\iPhone\Debug\System.Net.NameResolution.dll
+C:\Users\Hadas\source\repos\CustomerApp\CustomerApp\CustomerApp.iOS\bin\iPhone\Debug\System.Net.NetworkInformation.dll
+C:\Users\Hadas\source\repos\CustomerApp\CustomerApp\CustomerApp.iOS\bin\iPhone\Debug\System.Net.Requests.dll
+C:\Users\Hadas\source\repos\CustomerApp\CustomerApp\CustomerApp.iOS\bin\iPhone\Debug\System.Net.Security.dll
+C:\Users\Hadas\source\repos\CustomerApp\CustomerApp\CustomerApp.iOS\bin\iPhone\Debug\System.Net.WebSockets.Client.dll
+C:\Users\Hadas\source\repos\CustomerApp\CustomerApp\CustomerApp.iOS\bin\iPhone\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Hadas\source\repos\CustomerApp\CustomerApp\CustomerApp.iOS\bin\iPhone\Debug\System.Security.AccessControl.dll
+C:\Users\Hadas\source\repos\CustomerApp\CustomerApp\CustomerApp.iOS\bin\iPhone\Debug\System.Security.Principal.Windows.dll
+C:\Users\Hadas\source\repos\CustomerApp\CustomerApp\CustomerApp.iOS\bin\iPhone\Debug\System.Security.SecureString.dll
+C:\Users\Hadas\source\repos\CustomerApp\CustomerApp\CustomerApp.iOS\bin\iPhone\Debug\Microsoft.WindowsAzure.Storage.dll
+C:\Users\Hadas\source\repos\CustomerApp\CustomerApp\CustomerApp.iOS\bin\iPhone\Debug\Microsoft.WindowsAzure.Storage.pdb
+C:\Users\Hadas\source\repos\CustomerApp\CustomerApp\CustomerApp.iOS\bin\iPhone\Debug\Xamanimation.dll
+C:\Users\Hadas\source\repos\CustomerApp\CustomerApp\CustomerApp.iOS\bin\iPhone\Debug\Xamarin.Essentials.dll
+C:\Users\Hadas\source\repos\CustomerApp\CustomerApp\CustomerApp.iOS\bin\iPhone\Debug\Xamarin.Essentials.pdb
+C:\Users\Hadas\source\repos\CustomerApp\CustomerApp\CustomerApp.iOS\bin\iPhone\Debug\Xamarin.Forms.Core.dll
+C:\Users\Hadas\source\repos\CustomerApp\CustomerApp\CustomerApp.iOS\bin\iPhone\Debug\Xamarin.Forms.Core.pdb
+C:\Users\Hadas\source\repos\CustomerApp\CustomerApp\CustomerApp.iOS\bin\iPhone\Debug\Xamarin.Forms.Platform.dll
+C:\Users\Hadas\source\repos\CustomerApp\CustomerApp\CustomerApp.iOS\bin\iPhone\Debug\Xamarin.Forms.Platform.iOS.dll
+C:\Users\Hadas\source\repos\CustomerApp\CustomerApp\CustomerApp.iOS\bin\iPhone\Debug\Xamarin.Forms.Platform.iOS.pdb
+C:\Users\Hadas\source\repos\CustomerApp\CustomerApp\CustomerApp.iOS\bin\iPhone\Debug\Xamarin.Forms.Xaml.dll
+C:\Users\Hadas\source\repos\CustomerApp\CustomerApp\CustomerApp.iOS\bin\iPhone\Debug\Xamarin.Forms.Xaml.pdb
+C:\Users\Hadas\source\repos\CustomerApp\CustomerApp\CustomerApp.iOS\bin\iPhone\Debug\ar\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\Hadas\source\repos\CustomerApp\CustomerApp\CustomerApp.iOS\bin\iPhone\Debug\ca\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\Hadas\source\repos\CustomerApp\CustomerApp\CustomerApp.iOS\bin\iPhone\Debug\cs\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\Hadas\source\repos\CustomerApp\CustomerApp\CustomerApp.iOS\bin\iPhone\Debug\da\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\Hadas\source\repos\CustomerApp\CustomerApp\CustomerApp.iOS\bin\iPhone\Debug\de\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\Hadas\source\repos\CustomerApp\CustomerApp\CustomerApp.iOS\bin\iPhone\Debug\el\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\Hadas\source\repos\CustomerApp\CustomerApp\CustomerApp.iOS\bin\iPhone\Debug\es\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\Hadas\source\repos\CustomerApp\CustomerApp\CustomerApp.iOS\bin\iPhone\Debug\fi\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\Hadas\source\repos\CustomerApp\CustomerApp\CustomerApp.iOS\bin\iPhone\Debug\fr\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\Hadas\source\repos\CustomerApp\CustomerApp\CustomerApp.iOS\bin\iPhone\Debug\he\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\Hadas\source\repos\CustomerApp\CustomerApp\CustomerApp.iOS\bin\iPhone\Debug\hi\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\Hadas\source\repos\CustomerApp\CustomerApp\CustomerApp.iOS\bin\iPhone\Debug\hr\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\Hadas\source\repos\CustomerApp\CustomerApp\CustomerApp.iOS\bin\iPhone\Debug\hu\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\Hadas\source\repos\CustomerApp\CustomerApp\CustomerApp.iOS\bin\iPhone\Debug\id\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\Hadas\source\repos\CustomerApp\CustomerApp\CustomerApp.iOS\bin\iPhone\Debug\it\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\Hadas\source\repos\CustomerApp\CustomerApp\CustomerApp.iOS\bin\iPhone\Debug\ja\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\Hadas\source\repos\CustomerApp\CustomerApp\CustomerApp.iOS\bin\iPhone\Debug\ko\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\Hadas\source\repos\CustomerApp\CustomerApp\CustomerApp.iOS\bin\iPhone\Debug\ms\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\Hadas\source\repos\CustomerApp\CustomerApp\CustomerApp.iOS\bin\iPhone\Debug\nb\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\Hadas\source\repos\CustomerApp\CustomerApp\CustomerApp.iOS\bin\iPhone\Debug\nl\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\Hadas\source\repos\CustomerApp\CustomerApp\CustomerApp.iOS\bin\iPhone\Debug\pl\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\Hadas\source\repos\CustomerApp\CustomerApp\CustomerApp.iOS\bin\iPhone\Debug\pt-BR\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\Hadas\source\repos\CustomerApp\CustomerApp\CustomerApp.iOS\bin\iPhone\Debug\pt\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\Hadas\source\repos\CustomerApp\CustomerApp\CustomerApp.iOS\bin\iPhone\Debug\ro\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\Hadas\source\repos\CustomerApp\CustomerApp\CustomerApp.iOS\bin\iPhone\Debug\ru\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\Hadas\source\repos\CustomerApp\CustomerApp\CustomerApp.iOS\bin\iPhone\Debug\sk\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\Hadas\source\repos\CustomerApp\CustomerApp\CustomerApp.iOS\bin\iPhone\Debug\sv\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\Hadas\source\repos\CustomerApp\CustomerApp\CustomerApp.iOS\bin\iPhone\Debug\th\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\Hadas\source\repos\CustomerApp\CustomerApp\CustomerApp.iOS\bin\iPhone\Debug\tr\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\Hadas\source\repos\CustomerApp\CustomerApp\CustomerApp.iOS\bin\iPhone\Debug\uk\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\Hadas\source\repos\CustomerApp\CustomerApp\CustomerApp.iOS\bin\iPhone\Debug\vi\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\Hadas\source\repos\CustomerApp\CustomerApp\CustomerApp.iOS\bin\iPhone\Debug\zh-HK\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\Hadas\source\repos\CustomerApp\CustomerApp\CustomerApp.iOS\bin\iPhone\Debug\zh-Hans\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\Hadas\source\repos\CustomerApp\CustomerApp\CustomerApp.iOS\bin\iPhone\Debug\zh-Hant\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\Hadas\source\repos\CustomerApp\CustomerApp\CustomerApp.iOS\bin\iPhone\Debug\Xamvvm.Core.dll
+C:\Users\Hadas\source\repos\CustomerApp\CustomerApp\CustomerApp.iOS\bin\iPhone\Debug\Xamvvm.Forms.dll
+C:\Users\Hadas\source\repos\CustomerApp\CustomerApp\CustomerApp.iOS\bin\iPhone\Debug\ZXing.Net.Mobile.Core.dll
+C:\Users\Hadas\source\repos\CustomerApp\CustomerApp\CustomerApp.iOS\bin\iPhone\Debug\ZXingNetMobile.dll
+C:\Users\Hadas\source\repos\CustomerApp\CustomerApp\CustomerApp.iOS\bin\iPhone\Debug\zxing.portable.dll
+C:\Users\Hadas\source\repos\CustomerApp\CustomerApp\CustomerApp.iOS\bin\iPhone\Debug\ZXing.Net.Mobile.Forms.dll
+C:\Users\Hadas\source\repos\CustomerApp\CustomerApp\CustomerApp.iOS\bin\iPhone\Debug\ZXing.Net.Mobile.Forms.iOS.dll
+C:\Users\Hadas\source\repos\CustomerApp\CustomerApp\CustomerApp.iOS\bin\iPhone\Debug\CustomerApp.dll
+C:\Users\Hadas\source\repos\CustomerApp\CustomerApp\CustomerApp.iOS\bin\iPhone\Debug\CustomerApp.pdb
+C:\Users\Hadas\source\repos\CustomerApp\CustomerApp\CustomerApp.iOS\obj\iPhone\Debug\actool\_PartialAppManifest.items
+C:\Users\Hadas\source\repos\CustomerApp\CustomerApp\CustomerApp.iOS\obj\iPhone\Debug\actool\_BundleResourceWithLogicalName.items
+C:\Users\Hadas\source\repos\CustomerApp\CustomerApp\CustomerApp.iOS\obj\iPhone\Debug\ibtool\_BundleResourceWithLogicalName.items
+C:\Users\Hadas\source\repos\CustomerApp\CustomerApp\CustomerApp.iOS\obj\iPhone\Debug\coremlc\_PartialAppManifest.items
+C:\Users\Hadas\source\repos\CustomerApp\CustomerApp\CustomerApp.iOS\obj\iPhone\Debug\coremlc\_BundleResourceWithLogicalName.items
+C:\Users\Hadas\source\repos\CustomerApp\CustomerApp\CustomerApp.iOS\obj\iPhone\Debug\optimized\
+C:\Users\Hadas\source\repos\CustomerApp\CustomerApp\CustomerApp.iOS\obj\iPhone\Debug\CustomerApp.iOS.csprojAssemblyReference.cache
+C:\Users\Hadas\source\repos\CustomerApp\CustomerApp\CustomerApp.iOS\obj\iPhone\Debug\CustomerApp.iOS.csproj.CoreCompileInputs.cache
+C:\Users\Hadas\source\repos\CustomerApp\CustomerApp\CustomerApp.iOS\obj\iPhone\Debug\CustomerApp.iOS.csproj.CopyComplete
+C:\Users\Hadas\source\repos\CustomerApp\CustomerApp\CustomerApp.iOS\obj\iPhone\Debug\CustomerApp.iOS.exe
+C:\Users\Hadas\source\repos\CustomerApp\CustomerApp\CustomerApp.iOS\obj\iPhone\Debug\CustomerApp.iOS.pdb
+C:\Users\Hadas\Desktop\project- iot\CustomerApp0607\CustomerApp\CustomerApp.iOS\bin\iPhone\Debug\CustomerApp.iOS.exe
+C:\Users\Hadas\Desktop\project- iot\CustomerApp0607\CustomerApp\CustomerApp.iOS\bin\iPhone\Debug\CustomerApp.iOS.pdb
+C:\Users\Hadas\Desktop\project- iot\CustomerApp0607\CustomerApp\CustomerApp.iOS\bin\iPhone\Debug\DotNetty.Buffers.dll
+C:\Users\Hadas\Desktop\project- iot\CustomerApp0607\CustomerApp\CustomerApp.iOS\bin\iPhone\Debug\DotNetty.Codecs.dll
+C:\Users\Hadas\Desktop\project- iot\CustomerApp0607\CustomerApp\CustomerApp.iOS\bin\iPhone\Debug\DotNetty.Codecs.Mqtt.dll
+C:\Users\Hadas\Desktop\project- iot\CustomerApp0607\CustomerApp\CustomerApp.iOS\bin\iPhone\Debug\DotNetty.Common.dll
+C:\Users\Hadas\Desktop\project- iot\CustomerApp0607\CustomerApp\CustomerApp.iOS\bin\iPhone\Debug\DotNetty.Handlers.dll
+C:\Users\Hadas\Desktop\project- iot\CustomerApp0607\CustomerApp\CustomerApp.iOS\bin\iPhone\Debug\DotNetty.Transport.dll
+C:\Users\Hadas\Desktop\project- iot\CustomerApp0607\CustomerApp\CustomerApp.iOS\bin\iPhone\Debug\Microsoft.Azure.Amqp.dll
+C:\Users\Hadas\Desktop\project- iot\CustomerApp0607\CustomerApp\CustomerApp.iOS\bin\iPhone\Debug\Microsoft.Azure.Cosmos.Table.dll
+C:\Users\Hadas\Desktop\project- iot\CustomerApp0607\CustomerApp\CustomerApp.iOS\bin\iPhone\Debug\Microsoft.Azure.Devices.Client.dll
+C:\Users\Hadas\Desktop\project- iot\CustomerApp0607\CustomerApp\CustomerApp.iOS\bin\iPhone\Debug\Microsoft.Azure.Devices.Shared.dll
+C:\Users\Hadas\Desktop\project- iot\CustomerApp0607\CustomerApp\CustomerApp.iOS\bin\iPhone\Debug\Microsoft.Azure.DocumentDB.Core.dll
+C:\Users\Hadas\Desktop\project- iot\CustomerApp0607\CustomerApp\CustomerApp.iOS\bin\iPhone\Debug\Microsoft.Azure.KeyVault.Core.dll
+C:\Users\Hadas\Desktop\project- iot\CustomerApp0607\CustomerApp\CustomerApp.iOS\bin\iPhone\Debug\Microsoft.Azure.Storage.Blob.dll
+C:\Users\Hadas\Desktop\project- iot\CustomerApp0607\CustomerApp\CustomerApp.iOS\bin\iPhone\Debug\Microsoft.Azure.Storage.Common.dll
+C:\Users\Hadas\Desktop\project- iot\CustomerApp0607\CustomerApp\CustomerApp.iOS\bin\iPhone\Debug\Microsoft.Bot.Configuration.dll
+C:\Users\Hadas\Desktop\project- iot\CustomerApp0607\CustomerApp\CustomerApp.iOS\bin\iPhone\Debug\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\Hadas\Desktop\project- iot\CustomerApp0607\CustomerApp\CustomerApp.iOS\bin\iPhone\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Hadas\Desktop\project- iot\CustomerApp0607\CustomerApp\CustomerApp.iOS\bin\iPhone\Debug\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Hadas\Desktop\project- iot\CustomerApp0607\CustomerApp\CustomerApp.iOS\bin\iPhone\Debug\Microsoft.Extensions.Logging.dll
+C:\Users\Hadas\Desktop\project- iot\CustomerApp0607\CustomerApp\CustomerApp.iOS\bin\iPhone\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Hadas\Desktop\project- iot\CustomerApp0607\CustomerApp\CustomerApp.iOS\bin\iPhone\Debug\Microsoft.Extensions.PlatformAbstractions.dll
+C:\Users\Hadas\Desktop\project- iot\CustomerApp0607\CustomerApp\CustomerApp.iOS\bin\iPhone\Debug\Microsoft.OData.Core.dll
+C:\Users\Hadas\Desktop\project- iot\CustomerApp0607\CustomerApp\CustomerApp.iOS\bin\iPhone\Debug\Microsoft.OData.Edm.dll
+C:\Users\Hadas\Desktop\project- iot\CustomerApp0607\CustomerApp\CustomerApp.iOS\bin\iPhone\Debug\Microsoft.Spatial.dll
+C:\Users\Hadas\Desktop\project- iot\CustomerApp0607\CustomerApp\CustomerApp.iOS\bin\iPhone\Debug\Microsoft.Win32.Registry.dll
+C:\Users\Hadas\Desktop\project- iot\CustomerApp0607\CustomerApp\CustomerApp.iOS\bin\iPhone\Debug\Nancy.dll
+C:\Users\Hadas\Desktop\project- iot\CustomerApp0607\CustomerApp\CustomerApp.iOS\bin\iPhone\Debug\Newtonsoft.Json.dll
+C:\Users\Hadas\Desktop\project- iot\CustomerApp0607\CustomerApp\CustomerApp.iOS\bin\iPhone\Debug\System.Buffers.dll
+C:\Users\Hadas\Desktop\project- iot\CustomerApp0607\CustomerApp\CustomerApp.iOS\bin\iPhone\Debug\System.Collections.Immutable.dll
+C:\Users\Hadas\Desktop\project- iot\CustomerApp0607\CustomerApp\CustomerApp.iOS\bin\iPhone\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\Hadas\Desktop\project- iot\CustomerApp0607\CustomerApp\CustomerApp.iOS\bin\iPhone\Debug\System.Diagnostics.TraceSource.dll
+C:\Users\Hadas\Desktop\project- iot\CustomerApp0607\CustomerApp\CustomerApp.iOS\bin\iPhone\Debug\System.Globalization.Extensions.dll
+C:\Users\Hadas\Desktop\project- iot\CustomerApp0607\CustomerApp\CustomerApp.iOS\bin\iPhone\Debug\System.Net.Http.dll
+C:\Users\Hadas\Desktop\project- iot\CustomerApp0607\CustomerApp\CustomerApp.iOS\bin\iPhone\Debug\System.Net.NameResolution.dll
+C:\Users\Hadas\Desktop\project- iot\CustomerApp0607\CustomerApp\CustomerApp.iOS\bin\iPhone\Debug\System.Net.NetworkInformation.dll
+C:\Users\Hadas\Desktop\project- iot\CustomerApp0607\CustomerApp\CustomerApp.iOS\bin\iPhone\Debug\System.Net.Requests.dll
+C:\Users\Hadas\Desktop\project- iot\CustomerApp0607\CustomerApp\CustomerApp.iOS\bin\iPhone\Debug\System.Net.Security.dll
+C:\Users\Hadas\Desktop\project- iot\CustomerApp0607\CustomerApp\CustomerApp.iOS\bin\iPhone\Debug\System.Net.WebSockets.Client.dll
+C:\Users\Hadas\Desktop\project- iot\CustomerApp0607\CustomerApp\CustomerApp.iOS\bin\iPhone\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Hadas\Desktop\project- iot\CustomerApp0607\CustomerApp\CustomerApp.iOS\bin\iPhone\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Hadas\Desktop\project- iot\CustomerApp0607\CustomerApp\CustomerApp.iOS\bin\iPhone\Debug\System.Security.AccessControl.dll
+C:\Users\Hadas\Desktop\project- iot\CustomerApp0607\CustomerApp\CustomerApp.iOS\bin\iPhone\Debug\System.Security.Principal.Windows.dll
+C:\Users\Hadas\Desktop\project- iot\CustomerApp0607\CustomerApp\CustomerApp.iOS\bin\iPhone\Debug\System.Security.SecureString.dll
+C:\Users\Hadas\Desktop\project- iot\CustomerApp0607\CustomerApp\CustomerApp.iOS\bin\iPhone\Debug\Microsoft.WindowsAzure.Storage.dll
+C:\Users\Hadas\Desktop\project- iot\CustomerApp0607\CustomerApp\CustomerApp.iOS\bin\iPhone\Debug\Microsoft.WindowsAzure.Storage.pdb
+C:\Users\Hadas\Desktop\project- iot\CustomerApp0607\CustomerApp\CustomerApp.iOS\bin\iPhone\Debug\Xamanimation.dll
+C:\Users\Hadas\Desktop\project- iot\CustomerApp0607\CustomerApp\CustomerApp.iOS\bin\iPhone\Debug\Xamarin.Essentials.dll
+C:\Users\Hadas\Desktop\project- iot\CustomerApp0607\CustomerApp\CustomerApp.iOS\bin\iPhone\Debug\Xamarin.Essentials.pdb
+C:\Users\Hadas\Desktop\project- iot\CustomerApp0607\CustomerApp\CustomerApp.iOS\bin\iPhone\Debug\Xamarin.Forms.Core.dll
+C:\Users\Hadas\Desktop\project- iot\CustomerApp0607\CustomerApp\CustomerApp.iOS\bin\iPhone\Debug\Xamarin.Forms.Core.pdb
+C:\Users\Hadas\Desktop\project- iot\CustomerApp0607\CustomerApp\CustomerApp.iOS\bin\iPhone\Debug\Xamarin.Forms.Platform.dll
+C:\Users\Hadas\Desktop\project- iot\CustomerApp0607\CustomerApp\CustomerApp.iOS\bin\iPhone\Debug\Xamarin.Forms.Platform.iOS.dll
+C:\Users\Hadas\Desktop\project- iot\CustomerApp0607\CustomerApp\CustomerApp.iOS\bin\iPhone\Debug\Xamarin.Forms.Platform.iOS.pdb
+C:\Users\Hadas\Desktop\project- iot\CustomerApp0607\CustomerApp\CustomerApp.iOS\bin\iPhone\Debug\Xamarin.Forms.Xaml.dll
+C:\Users\Hadas\Desktop\project- iot\CustomerApp0607\CustomerApp\CustomerApp.iOS\bin\iPhone\Debug\Xamarin.Forms.Xaml.pdb
+C:\Users\Hadas\Desktop\project- iot\CustomerApp0607\CustomerApp\CustomerApp.iOS\bin\iPhone\Debug\ar\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\Hadas\Desktop\project- iot\CustomerApp0607\CustomerApp\CustomerApp.iOS\bin\iPhone\Debug\ca\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\Hadas\Desktop\project- iot\CustomerApp0607\CustomerApp\CustomerApp.iOS\bin\iPhone\Debug\cs\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\Hadas\Desktop\project- iot\CustomerApp0607\CustomerApp\CustomerApp.iOS\bin\iPhone\Debug\da\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\Hadas\Desktop\project- iot\CustomerApp0607\CustomerApp\CustomerApp.iOS\bin\iPhone\Debug\de\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\Hadas\Desktop\project- iot\CustomerApp0607\CustomerApp\CustomerApp.iOS\bin\iPhone\Debug\el\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\Hadas\Desktop\project- iot\CustomerApp0607\CustomerApp\CustomerApp.iOS\bin\iPhone\Debug\es\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\Hadas\Desktop\project- iot\CustomerApp0607\CustomerApp\CustomerApp.iOS\bin\iPhone\Debug\fi\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\Hadas\Desktop\project- iot\CustomerApp0607\CustomerApp\CustomerApp.iOS\bin\iPhone\Debug\fr\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\Hadas\Desktop\project- iot\CustomerApp0607\CustomerApp\CustomerApp.iOS\bin\iPhone\Debug\he\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\Hadas\Desktop\project- iot\CustomerApp0607\CustomerApp\CustomerApp.iOS\bin\iPhone\Debug\hi\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\Hadas\Desktop\project- iot\CustomerApp0607\CustomerApp\CustomerApp.iOS\bin\iPhone\Debug\hr\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\Hadas\Desktop\project- iot\CustomerApp0607\CustomerApp\CustomerApp.iOS\bin\iPhone\Debug\hu\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\Hadas\Desktop\project- iot\CustomerApp0607\CustomerApp\CustomerApp.iOS\bin\iPhone\Debug\id\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\Hadas\Desktop\project- iot\CustomerApp0607\CustomerApp\CustomerApp.iOS\bin\iPhone\Debug\it\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\Hadas\Desktop\project- iot\CustomerApp0607\CustomerApp\CustomerApp.iOS\bin\iPhone\Debug\ja\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\Hadas\Desktop\project- iot\CustomerApp0607\CustomerApp\CustomerApp.iOS\bin\iPhone\Debug\ko\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\Hadas\Desktop\project- iot\CustomerApp0607\CustomerApp\CustomerApp.iOS\bin\iPhone\Debug\ms\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\Hadas\Desktop\project- iot\CustomerApp0607\CustomerApp\CustomerApp.iOS\bin\iPhone\Debug\nb\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\Hadas\Desktop\project- iot\CustomerApp0607\CustomerApp\CustomerApp.iOS\bin\iPhone\Debug\nl\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\Hadas\Desktop\project- iot\CustomerApp0607\CustomerApp\CustomerApp.iOS\bin\iPhone\Debug\pl\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\Hadas\Desktop\project- iot\CustomerApp0607\CustomerApp\CustomerApp.iOS\bin\iPhone\Debug\pt-BR\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\Hadas\Desktop\project- iot\CustomerApp0607\CustomerApp\CustomerApp.iOS\bin\iPhone\Debug\pt\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\Hadas\Desktop\project- iot\CustomerApp0607\CustomerApp\CustomerApp.iOS\bin\iPhone\Debug\ro\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\Hadas\Desktop\project- iot\CustomerApp0607\CustomerApp\CustomerApp.iOS\bin\iPhone\Debug\ru\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\Hadas\Desktop\project- iot\CustomerApp0607\CustomerApp\CustomerApp.iOS\bin\iPhone\Debug\sk\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\Hadas\Desktop\project- iot\CustomerApp0607\CustomerApp\CustomerApp.iOS\bin\iPhone\Debug\sv\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\Hadas\Desktop\project- iot\CustomerApp0607\CustomerApp\CustomerApp.iOS\bin\iPhone\Debug\th\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\Hadas\Desktop\project- iot\CustomerApp0607\CustomerApp\CustomerApp.iOS\bin\iPhone\Debug\tr\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\Hadas\Desktop\project- iot\CustomerApp0607\CustomerApp\CustomerApp.iOS\bin\iPhone\Debug\uk\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\Hadas\Desktop\project- iot\CustomerApp0607\CustomerApp\CustomerApp.iOS\bin\iPhone\Debug\vi\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\Hadas\Desktop\project- iot\CustomerApp0607\CustomerApp\CustomerApp.iOS\bin\iPhone\Debug\zh-HK\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\Hadas\Desktop\project- iot\CustomerApp0607\CustomerApp\CustomerApp.iOS\bin\iPhone\Debug\zh-Hans\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\Hadas\Desktop\project- iot\CustomerApp0607\CustomerApp\CustomerApp.iOS\bin\iPhone\Debug\zh-Hant\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\Hadas\Desktop\project- iot\CustomerApp0607\CustomerApp\CustomerApp.iOS\bin\iPhone\Debug\Xamvvm.Core.dll
+C:\Users\Hadas\Desktop\project- iot\CustomerApp0607\CustomerApp\CustomerApp.iOS\bin\iPhone\Debug\Xamvvm.Forms.dll
+C:\Users\Hadas\Desktop\project- iot\CustomerApp0607\CustomerApp\CustomerApp.iOS\bin\iPhone\Debug\ZXing.Net.Mobile.Core.dll
+C:\Users\Hadas\Desktop\project- iot\CustomerApp0607\CustomerApp\CustomerApp.iOS\bin\iPhone\Debug\ZXingNetMobile.dll
+C:\Users\Hadas\Desktop\project- iot\CustomerApp0607\CustomerApp\CustomerApp.iOS\bin\iPhone\Debug\zxing.portable.dll
+C:\Users\Hadas\Desktop\project- iot\CustomerApp0607\CustomerApp\CustomerApp.iOS\bin\iPhone\Debug\ZXing.Net.Mobile.Forms.dll
+C:\Users\Hadas\Desktop\project- iot\CustomerApp0607\CustomerApp\CustomerApp.iOS\bin\iPhone\Debug\ZXing.Net.Mobile.Forms.iOS.dll
+C:\Users\Hadas\Desktop\project- iot\CustomerApp0607\CustomerApp\CustomerApp.iOS\bin\iPhone\Debug\CustomerApp.dll
+C:\Users\Hadas\Desktop\project- iot\CustomerApp0607\CustomerApp\CustomerApp.iOS\bin\iPhone\Debug\CustomerApp.pdb
+C:\Users\Hadas\Desktop\project- iot\CustomerApp0607\CustomerApp\CustomerApp.iOS\obj\iPhone\Debug\actool\_PartialAppManifest.items
+C:\Users\Hadas\Desktop\project- iot\CustomerApp0607\CustomerApp\CustomerApp.iOS\obj\iPhone\Debug\actool\_BundleResourceWithLogicalName.items
+C:\Users\Hadas\Desktop\project- iot\CustomerApp0607\CustomerApp\CustomerApp.iOS\obj\iPhone\Debug\ibtool\_BundleResourceWithLogicalName.items
+C:\Users\Hadas\Desktop\project- iot\CustomerApp0607\CustomerApp\CustomerApp.iOS\obj\iPhone\Debug\coremlc\_PartialAppManifest.items
+C:\Users\Hadas\Desktop\project- iot\CustomerApp0607\CustomerApp\CustomerApp.iOS\obj\iPhone\Debug\coremlc\_BundleResourceWithLogicalName.items
+C:\Users\Hadas\Desktop\project- iot\CustomerApp0607\CustomerApp\CustomerApp.iOS\obj\iPhone\Debug\optimized\
+C:\Users\Hadas\Desktop\project- iot\CustomerApp0607\CustomerApp\CustomerApp.iOS\obj\iPhone\Debug\CustomerApp.iOS.csprojAssemblyReference.cache
+C:\Users\Hadas\Desktop\project- iot\CustomerApp0607\CustomerApp\CustomerApp.iOS\obj\iPhone\Debug\CustomerApp.iOS.csproj.CoreCompileInputs.cache
+C:\Users\Hadas\Desktop\project- iot\CustomerApp0607\CustomerApp\CustomerApp.iOS\obj\iPhone\Debug\CustomerApp.iOS.csproj.CopyComplete
+C:\Users\Hadas\Desktop\project- iot\CustomerApp0607\CustomerApp\CustomerApp.iOS\obj\iPhone\Debug\CustomerApp.iOS.exe
+C:\Users\Hadas\Desktop\project- iot\CustomerApp0607\CustomerApp\CustomerApp.iOS\obj\iPhone\Debug\CustomerApp.iOS.pdb
+C:\Users\Hadas\Desktop\project- iot\CustomerApp0607\CustomerApp\CustomerApp.iOS\bin\iPhone\Debug\Xamarin.CommunityToolkit.dll
+C:\Users\Hadas\Desktop\project- iot\CustomerApp0607\CustomerApp\CustomerApp.iOS\bin\iPhone\Debug\Xamarin.CommunityToolkit.Markup.dll
+C:\Users\Hadas\Desktop\project- iot\CustomerApp0607\CustomerApp\CustomerApp.iOS\bin\iPhone\Debug\Xamarin.Forms.MultiSelectListView.dll
+C:\Users\Hadas\Desktop\project- iot\CustomerApp0607_2300\CustomerApp\CustomerApp.iOS\bin\iPhone\Debug\CustomerApp.iOS.exe
+C:\Users\Hadas\Desktop\project- iot\CustomerApp0607_2300\CustomerApp\CustomerApp.iOS\bin\iPhone\Debug\CustomerApp.iOS.pdb
+C:\Users\Hadas\Desktop\project- iot\CustomerApp0607_2300\CustomerApp\CustomerApp.iOS\bin\iPhone\Debug\DotNetty.Buffers.dll
+C:\Users\Hadas\Desktop\project- iot\CustomerApp0607_2300\CustomerApp\CustomerApp.iOS\bin\iPhone\Debug\DotNetty.Codecs.dll
+C:\Users\Hadas\Desktop\project- iot\CustomerApp0607_2300\CustomerApp\CustomerApp.iOS\bin\iPhone\Debug\DotNetty.Codecs.Mqtt.dll
+C:\Users\Hadas\Desktop\project- iot\CustomerApp0607_2300\CustomerApp\CustomerApp.iOS\bin\iPhone\Debug\DotNetty.Common.dll
+C:\Users\Hadas\Desktop\project- iot\CustomerApp0607_2300\CustomerApp\CustomerApp.iOS\bin\iPhone\Debug\DotNetty.Handlers.dll
+C:\Users\Hadas\Desktop\project- iot\CustomerApp0607_2300\CustomerApp\CustomerApp.iOS\bin\iPhone\Debug\DotNetty.Transport.dll
+C:\Users\Hadas\Desktop\project- iot\CustomerApp0607_2300\CustomerApp\CustomerApp.iOS\bin\iPhone\Debug\Microsoft.Azure.Amqp.dll
+C:\Users\Hadas\Desktop\project- iot\CustomerApp0607_2300\CustomerApp\CustomerApp.iOS\bin\iPhone\Debug\Microsoft.Azure.Cosmos.Table.dll
+C:\Users\Hadas\Desktop\project- iot\CustomerApp0607_2300\CustomerApp\CustomerApp.iOS\bin\iPhone\Debug\Microsoft.Azure.Devices.Client.dll
+C:\Users\Hadas\Desktop\project- iot\CustomerApp0607_2300\CustomerApp\CustomerApp.iOS\bin\iPhone\Debug\Microsoft.Azure.Devices.Shared.dll
+C:\Users\Hadas\Desktop\project- iot\CustomerApp0607_2300\CustomerApp\CustomerApp.iOS\bin\iPhone\Debug\Microsoft.Azure.DocumentDB.Core.dll
+C:\Users\Hadas\Desktop\project- iot\CustomerApp0607_2300\CustomerApp\CustomerApp.iOS\bin\iPhone\Debug\Microsoft.Azure.KeyVault.Core.dll
+C:\Users\Hadas\Desktop\project- iot\CustomerApp0607_2300\CustomerApp\CustomerApp.iOS\bin\iPhone\Debug\Microsoft.Azure.Storage.Blob.dll
+C:\Users\Hadas\Desktop\project- iot\CustomerApp0607_2300\CustomerApp\CustomerApp.iOS\bin\iPhone\Debug\Microsoft.Azure.Storage.Common.dll
+C:\Users\Hadas\Desktop\project- iot\CustomerApp0607_2300\CustomerApp\CustomerApp.iOS\bin\iPhone\Debug\Microsoft.Bot.Configuration.dll
+C:\Users\Hadas\Desktop\project- iot\CustomerApp0607_2300\CustomerApp\CustomerApp.iOS\bin\iPhone\Debug\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\Hadas\Desktop\project- iot\CustomerApp0607_2300\CustomerApp\CustomerApp.iOS\bin\iPhone\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Hadas\Desktop\project- iot\CustomerApp0607_2300\CustomerApp\CustomerApp.iOS\bin\iPhone\Debug\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Hadas\Desktop\project- iot\CustomerApp0607_2300\CustomerApp\CustomerApp.iOS\bin\iPhone\Debug\Microsoft.Extensions.Logging.dll
+C:\Users\Hadas\Desktop\project- iot\CustomerApp0607_2300\CustomerApp\CustomerApp.iOS\bin\iPhone\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Hadas\Desktop\project- iot\CustomerApp0607_2300\CustomerApp\CustomerApp.iOS\bin\iPhone\Debug\Microsoft.Extensions.PlatformAbstractions.dll
+C:\Users\Hadas\Desktop\project- iot\CustomerApp0607_2300\CustomerApp\CustomerApp.iOS\bin\iPhone\Debug\Microsoft.OData.Core.dll
+C:\Users\Hadas\Desktop\project- iot\CustomerApp0607_2300\CustomerApp\CustomerApp.iOS\bin\iPhone\Debug\Microsoft.OData.Edm.dll
+C:\Users\Hadas\Desktop\project- iot\CustomerApp0607_2300\CustomerApp\CustomerApp.iOS\bin\iPhone\Debug\Microsoft.Spatial.dll
+C:\Users\Hadas\Desktop\project- iot\CustomerApp0607_2300\CustomerApp\CustomerApp.iOS\bin\iPhone\Debug\Microsoft.Win32.Registry.dll
+C:\Users\Hadas\Desktop\project- iot\CustomerApp0607_2300\CustomerApp\CustomerApp.iOS\bin\iPhone\Debug\Nancy.dll
+C:\Users\Hadas\Desktop\project- iot\CustomerApp0607_2300\CustomerApp\CustomerApp.iOS\bin\iPhone\Debug\Newtonsoft.Json.dll
+C:\Users\Hadas\Desktop\project- iot\CustomerApp0607_2300\CustomerApp\CustomerApp.iOS\bin\iPhone\Debug\System.Buffers.dll
+C:\Users\Hadas\Desktop\project- iot\CustomerApp0607_2300\CustomerApp\CustomerApp.iOS\bin\iPhone\Debug\System.Collections.Immutable.dll
+C:\Users\Hadas\Desktop\project- iot\CustomerApp0607_2300\CustomerApp\CustomerApp.iOS\bin\iPhone\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\Hadas\Desktop\project- iot\CustomerApp0607_2300\CustomerApp\CustomerApp.iOS\bin\iPhone\Debug\System.Diagnostics.TraceSource.dll
+C:\Users\Hadas\Desktop\project- iot\CustomerApp0607_2300\CustomerApp\CustomerApp.iOS\bin\iPhone\Debug\System.Globalization.Extensions.dll
+C:\Users\Hadas\Desktop\project- iot\CustomerApp0607_2300\CustomerApp\CustomerApp.iOS\bin\iPhone\Debug\System.Net.Http.dll
+C:\Users\Hadas\Desktop\project- iot\CustomerApp0607_2300\CustomerApp\CustomerApp.iOS\bin\iPhone\Debug\System.Net.NameResolution.dll
+C:\Users\Hadas\Desktop\project- iot\CustomerApp0607_2300\CustomerApp\CustomerApp.iOS\bin\iPhone\Debug\System.Net.NetworkInformation.dll
+C:\Users\Hadas\Desktop\project- iot\CustomerApp0607_2300\CustomerApp\CustomerApp.iOS\bin\iPhone\Debug\System.Net.Requests.dll
+C:\Users\Hadas\Desktop\project- iot\CustomerApp0607_2300\CustomerApp\CustomerApp.iOS\bin\iPhone\Debug\System.Net.Security.dll
+C:\Users\Hadas\Desktop\project- iot\CustomerApp0607_2300\CustomerApp\CustomerApp.iOS\bin\iPhone\Debug\System.Net.WebSockets.Client.dll
+C:\Users\Hadas\Desktop\project- iot\CustomerApp0607_2300\CustomerApp\CustomerApp.iOS\bin\iPhone\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Hadas\Desktop\project- iot\CustomerApp0607_2300\CustomerApp\CustomerApp.iOS\bin\iPhone\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Hadas\Desktop\project- iot\CustomerApp0607_2300\CustomerApp\CustomerApp.iOS\bin\iPhone\Debug\System.Security.AccessControl.dll
+C:\Users\Hadas\Desktop\project- iot\CustomerApp0607_2300\CustomerApp\CustomerApp.iOS\bin\iPhone\Debug\System.Security.Principal.Windows.dll
+C:\Users\Hadas\Desktop\project- iot\CustomerApp0607_2300\CustomerApp\CustomerApp.iOS\bin\iPhone\Debug\System.Security.SecureString.dll
+C:\Users\Hadas\Desktop\project- iot\CustomerApp0607_2300\CustomerApp\CustomerApp.iOS\bin\iPhone\Debug\Microsoft.WindowsAzure.Storage.dll
+C:\Users\Hadas\Desktop\project- iot\CustomerApp0607_2300\CustomerApp\CustomerApp.iOS\bin\iPhone\Debug\Microsoft.WindowsAzure.Storage.pdb
+C:\Users\Hadas\Desktop\project- iot\CustomerApp0607_2300\CustomerApp\CustomerApp.iOS\bin\iPhone\Debug\Xamanimation.dll
+C:\Users\Hadas\Desktop\project- iot\CustomerApp0607_2300\CustomerApp\CustomerApp.iOS\bin\iPhone\Debug\Xamarin.CommunityToolkit.dll
+C:\Users\Hadas\Desktop\project- iot\CustomerApp0607_2300\CustomerApp\CustomerApp.iOS\bin\iPhone\Debug\Xamarin.CommunityToolkit.Markup.dll
+C:\Users\Hadas\Desktop\project- iot\CustomerApp0607_2300\CustomerApp\CustomerApp.iOS\bin\iPhone\Debug\Xamarin.Essentials.dll
+C:\Users\Hadas\Desktop\project- iot\CustomerApp0607_2300\CustomerApp\CustomerApp.iOS\bin\iPhone\Debug\Xamarin.Essentials.pdb
+C:\Users\Hadas\Desktop\project- iot\CustomerApp0607_2300\CustomerApp\CustomerApp.iOS\bin\iPhone\Debug\Xamarin.Forms.Core.dll
+C:\Users\Hadas\Desktop\project- iot\CustomerApp0607_2300\CustomerApp\CustomerApp.iOS\bin\iPhone\Debug\Xamarin.Forms.Core.pdb
+C:\Users\Hadas\Desktop\project- iot\CustomerApp0607_2300\CustomerApp\CustomerApp.iOS\bin\iPhone\Debug\Xamarin.Forms.Platform.dll
+C:\Users\Hadas\Desktop\project- iot\CustomerApp0607_2300\CustomerApp\CustomerApp.iOS\bin\iPhone\Debug\Xamarin.Forms.Platform.iOS.dll
+C:\Users\Hadas\Desktop\project- iot\CustomerApp0607_2300\CustomerApp\CustomerApp.iOS\bin\iPhone\Debug\Xamarin.Forms.Platform.iOS.pdb
+C:\Users\Hadas\Desktop\project- iot\CustomerApp0607_2300\CustomerApp\CustomerApp.iOS\bin\iPhone\Debug\Xamarin.Forms.Xaml.dll
+C:\Users\Hadas\Desktop\project- iot\CustomerApp0607_2300\CustomerApp\CustomerApp.iOS\bin\iPhone\Debug\Xamarin.Forms.Xaml.pdb
+C:\Users\Hadas\Desktop\project- iot\CustomerApp0607_2300\CustomerApp\CustomerApp.iOS\bin\iPhone\Debug\ar\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\Hadas\Desktop\project- iot\CustomerApp0607_2300\CustomerApp\CustomerApp.iOS\bin\iPhone\Debug\ca\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\Hadas\Desktop\project- iot\CustomerApp0607_2300\CustomerApp\CustomerApp.iOS\bin\iPhone\Debug\cs\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\Hadas\Desktop\project- iot\CustomerApp0607_2300\CustomerApp\CustomerApp.iOS\bin\iPhone\Debug\da\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\Hadas\Desktop\project- iot\CustomerApp0607_2300\CustomerApp\CustomerApp.iOS\bin\iPhone\Debug\de\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\Hadas\Desktop\project- iot\CustomerApp0607_2300\CustomerApp\CustomerApp.iOS\bin\iPhone\Debug\el\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\Hadas\Desktop\project- iot\CustomerApp0607_2300\CustomerApp\CustomerApp.iOS\bin\iPhone\Debug\es\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\Hadas\Desktop\project- iot\CustomerApp0607_2300\CustomerApp\CustomerApp.iOS\bin\iPhone\Debug\fi\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\Hadas\Desktop\project- iot\CustomerApp0607_2300\CustomerApp\CustomerApp.iOS\bin\iPhone\Debug\fr\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\Hadas\Desktop\project- iot\CustomerApp0607_2300\CustomerApp\CustomerApp.iOS\bin\iPhone\Debug\he\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\Hadas\Desktop\project- iot\CustomerApp0607_2300\CustomerApp\CustomerApp.iOS\bin\iPhone\Debug\hi\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\Hadas\Desktop\project- iot\CustomerApp0607_2300\CustomerApp\CustomerApp.iOS\bin\iPhone\Debug\hr\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\Hadas\Desktop\project- iot\CustomerApp0607_2300\CustomerApp\CustomerApp.iOS\bin\iPhone\Debug\hu\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\Hadas\Desktop\project- iot\CustomerApp0607_2300\CustomerApp\CustomerApp.iOS\bin\iPhone\Debug\id\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\Hadas\Desktop\project- iot\CustomerApp0607_2300\CustomerApp\CustomerApp.iOS\bin\iPhone\Debug\it\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\Hadas\Desktop\project- iot\CustomerApp0607_2300\CustomerApp\CustomerApp.iOS\bin\iPhone\Debug\ja\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\Hadas\Desktop\project- iot\CustomerApp0607_2300\CustomerApp\CustomerApp.iOS\bin\iPhone\Debug\ko\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\Hadas\Desktop\project- iot\CustomerApp0607_2300\CustomerApp\CustomerApp.iOS\bin\iPhone\Debug\ms\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\Hadas\Desktop\project- iot\CustomerApp0607_2300\CustomerApp\CustomerApp.iOS\bin\iPhone\Debug\nb\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\Hadas\Desktop\project- iot\CustomerApp0607_2300\CustomerApp\CustomerApp.iOS\bin\iPhone\Debug\nl\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\Hadas\Desktop\project- iot\CustomerApp0607_2300\CustomerApp\CustomerApp.iOS\bin\iPhone\Debug\pl\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\Hadas\Desktop\project- iot\CustomerApp0607_2300\CustomerApp\CustomerApp.iOS\bin\iPhone\Debug\pt-BR\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\Hadas\Desktop\project- iot\CustomerApp0607_2300\CustomerApp\CustomerApp.iOS\bin\iPhone\Debug\pt\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\Hadas\Desktop\project- iot\CustomerApp0607_2300\CustomerApp\CustomerApp.iOS\bin\iPhone\Debug\ro\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\Hadas\Desktop\project- iot\CustomerApp0607_2300\CustomerApp\CustomerApp.iOS\bin\iPhone\Debug\ru\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\Hadas\Desktop\project- iot\CustomerApp0607_2300\CustomerApp\CustomerApp.iOS\bin\iPhone\Debug\sk\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\Hadas\Desktop\project- iot\CustomerApp0607_2300\CustomerApp\CustomerApp.iOS\bin\iPhone\Debug\sv\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\Hadas\Desktop\project- iot\CustomerApp0607_2300\CustomerApp\CustomerApp.iOS\bin\iPhone\Debug\th\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\Hadas\Desktop\project- iot\CustomerApp0607_2300\CustomerApp\CustomerApp.iOS\bin\iPhone\Debug\tr\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\Hadas\Desktop\project- iot\CustomerApp0607_2300\CustomerApp\CustomerApp.iOS\bin\iPhone\Debug\uk\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\Hadas\Desktop\project- iot\CustomerApp0607_2300\CustomerApp\CustomerApp.iOS\bin\iPhone\Debug\vi\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\Hadas\Desktop\project- iot\CustomerApp0607_2300\CustomerApp\CustomerApp.iOS\bin\iPhone\Debug\zh-HK\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\Hadas\Desktop\project- iot\CustomerApp0607_2300\CustomerApp\CustomerApp.iOS\bin\iPhone\Debug\zh-Hans\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\Hadas\Desktop\project- iot\CustomerApp0607_2300\CustomerApp\CustomerApp.iOS\bin\iPhone\Debug\zh-Hant\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\Hadas\Desktop\project- iot\CustomerApp0607_2300\CustomerApp\CustomerApp.iOS\bin\iPhone\Debug\Xamarin.Forms.MultiSelectListView.dll
+C:\Users\Hadas\Desktop\project- iot\CustomerApp0607_2300\CustomerApp\CustomerApp.iOS\bin\iPhone\Debug\Xamvvm.Core.dll
+C:\Users\Hadas\Desktop\project- iot\CustomerApp0607_2300\CustomerApp\CustomerApp.iOS\bin\iPhone\Debug\Xamvvm.Forms.dll
+C:\Users\Hadas\Desktop\project- iot\CustomerApp0607_2300\CustomerApp\CustomerApp.iOS\bin\iPhone\Debug\ZXing.Net.Mobile.Core.dll
+C:\Users\Hadas\Desktop\project- iot\CustomerApp0607_2300\CustomerApp\CustomerApp.iOS\bin\iPhone\Debug\ZXingNetMobile.dll
+C:\Users\Hadas\Desktop\project- iot\CustomerApp0607_2300\CustomerApp\CustomerApp.iOS\bin\iPhone\Debug\zxing.portable.dll
+C:\Users\Hadas\Desktop\project- iot\CustomerApp0607_2300\CustomerApp\CustomerApp.iOS\bin\iPhone\Debug\ZXing.Net.Mobile.Forms.dll
+C:\Users\Hadas\Desktop\project- iot\CustomerApp0607_2300\CustomerApp\CustomerApp.iOS\bin\iPhone\Debug\ZXing.Net.Mobile.Forms.iOS.dll
+C:\Users\Hadas\Desktop\project- iot\CustomerApp0607_2300\CustomerApp\CustomerApp.iOS\bin\iPhone\Debug\CustomerApp.dll
+C:\Users\Hadas\Desktop\project- iot\CustomerApp0607_2300\CustomerApp\CustomerApp.iOS\bin\iPhone\Debug\CustomerApp.pdb
+C:\Users\Hadas\Desktop\project- iot\CustomerApp0607_2300\CustomerApp\CustomerApp.iOS\obj\iPhone\Debug\actool\_PartialAppManifest.items
+C:\Users\Hadas\Desktop\project- iot\CustomerApp0607_2300\CustomerApp\CustomerApp.iOS\obj\iPhone\Debug\actool\_BundleResourceWithLogicalName.items
+C:\Users\Hadas\Desktop\project- iot\CustomerApp0607_2300\CustomerApp\CustomerApp.iOS\obj\iPhone\Debug\ibtool\_BundleResourceWithLogicalName.items
+C:\Users\Hadas\Desktop\project- iot\CustomerApp0607_2300\CustomerApp\CustomerApp.iOS\obj\iPhone\Debug\coremlc\_PartialAppManifest.items
+C:\Users\Hadas\Desktop\project- iot\CustomerApp0607_2300\CustomerApp\CustomerApp.iOS\obj\iPhone\Debug\coremlc\_BundleResourceWithLogicalName.items
+C:\Users\Hadas\Desktop\project- iot\CustomerApp0607_2300\CustomerApp\CustomerApp.iOS\obj\iPhone\Debug\optimized\
+C:\Users\Hadas\Desktop\project- iot\CustomerApp0607_2300\CustomerApp\CustomerApp.iOS\obj\iPhone\Debug\CustomerApp.iOS.csprojAssemblyReference.cache
+C:\Users\Hadas\Desktop\project- iot\CustomerApp0607_2300\CustomerApp\CustomerApp.iOS\obj\iPhone\Debug\CustomerApp.iOS.csproj.CoreCompileInputs.cache
+C:\Users\Hadas\Desktop\project- iot\CustomerApp0607_2300\CustomerApp\CustomerApp.iOS\obj\iPhone\Debug\CustomerApp.iOS.csproj.CopyComplete
+C:\Users\Hadas\Desktop\project- iot\CustomerApp0607_2300\CustomerApp\CustomerApp.iOS\obj\iPhone\Debug\CustomerApp.iOS.exe
+C:\Users\Hadas\Desktop\project- iot\CustomerApp0607_2300\CustomerApp\CustomerApp.iOS\obj\iPhone\Debug\CustomerApp.iOS.pdb
+C:\Users\Hadas\Desktop\project- iot\CustomerApp0707\CustomerApp\CustomerApp.iOS\bin\iPhone\Debug\CustomerApp.iOS.exe
+C:\Users\Hadas\Desktop\project- iot\CustomerApp0707\CustomerApp\CustomerApp.iOS\bin\iPhone\Debug\CustomerApp.iOS.pdb
+C:\Users\Hadas\Desktop\project- iot\CustomerApp0707\CustomerApp\CustomerApp.iOS\bin\iPhone\Debug\DotNetty.Buffers.dll
+C:\Users\Hadas\Desktop\project- iot\CustomerApp0707\CustomerApp\CustomerApp.iOS\bin\iPhone\Debug\DotNetty.Codecs.dll
+C:\Users\Hadas\Desktop\project- iot\CustomerApp0707\CustomerApp\CustomerApp.iOS\bin\iPhone\Debug\DotNetty.Codecs.Mqtt.dll
+C:\Users\Hadas\Desktop\project- iot\CustomerApp0707\CustomerApp\CustomerApp.iOS\bin\iPhone\Debug\DotNetty.Common.dll
+C:\Users\Hadas\Desktop\project- iot\CustomerApp0707\CustomerApp\CustomerApp.iOS\bin\iPhone\Debug\DotNetty.Handlers.dll
+C:\Users\Hadas\Desktop\project- iot\CustomerApp0707\CustomerApp\CustomerApp.iOS\bin\iPhone\Debug\DotNetty.Transport.dll
+C:\Users\Hadas\Desktop\project- iot\CustomerApp0707\CustomerApp\CustomerApp.iOS\bin\iPhone\Debug\MessagePack.dll
+C:\Users\Hadas\Desktop\project- iot\CustomerApp0707\CustomerApp\CustomerApp.iOS\bin\iPhone\Debug\Microsoft.AspNetCore.Authentication.Abstractions.dll
+C:\Users\Hadas\Desktop\project- iot\CustomerApp0707\CustomerApp\CustomerApp.iOS\bin\iPhone\Debug\Microsoft.AspNetCore.Authorization.dll
+C:\Users\Hadas\Desktop\project- iot\CustomerApp0707\CustomerApp\CustomerApp.iOS\bin\iPhone\Debug\Microsoft.AspNetCore.Authorization.Policy.dll
+C:\Users\Hadas\Desktop\project- iot\CustomerApp0707\CustomerApp\CustomerApp.iOS\bin\iPhone\Debug\Microsoft.AspNetCore.Connections.Abstractions.dll
+C:\Users\Hadas\Desktop\project- iot\CustomerApp0707\CustomerApp\CustomerApp.iOS\bin\iPhone\Debug\Microsoft.AspNetCore.Hosting.Abstractions.dll
+C:\Users\Hadas\Desktop\project- iot\CustomerApp0707\CustomerApp\CustomerApp.iOS\bin\iPhone\Debug\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+C:\Users\Hadas\Desktop\project- iot\CustomerApp0707\CustomerApp\CustomerApp.iOS\bin\iPhone\Debug\Microsoft.AspNetCore.Http.dll
+C:\Users\Hadas\Desktop\project- iot\CustomerApp0707\CustomerApp\CustomerApp.iOS\bin\iPhone\Debug\Microsoft.AspNetCore.Http.Abstractions.dll
+C:\Users\Hadas\Desktop\project- iot\CustomerApp0707\CustomerApp\CustomerApp.iOS\bin\iPhone\Debug\Microsoft.AspNetCore.Http.Connections.dll
+C:\Users\Hadas\Desktop\project- iot\CustomerApp0707\CustomerApp\CustomerApp.iOS\bin\iPhone\Debug\Microsoft.AspNetCore.Http.Connections.Client.dll
+C:\Users\Hadas\Desktop\project- iot\CustomerApp0707\CustomerApp\CustomerApp.iOS\bin\iPhone\Debug\Microsoft.AspNetCore.Http.Connections.Common.dll
+C:\Users\Hadas\Desktop\project- iot\CustomerApp0707\CustomerApp\CustomerApp.iOS\bin\iPhone\Debug\Microsoft.AspNetCore.Http.Extensions.dll
+C:\Users\Hadas\Desktop\project- iot\CustomerApp0707\CustomerApp\CustomerApp.iOS\bin\iPhone\Debug\Microsoft.AspNetCore.Http.Features.dll
+C:\Users\Hadas\Desktop\project- iot\CustomerApp0707\CustomerApp\CustomerApp.iOS\bin\iPhone\Debug\Microsoft.AspNetCore.Localization.dll
+C:\Users\Hadas\Desktop\project- iot\CustomerApp0707\CustomerApp\CustomerApp.iOS\bin\iPhone\Debug\Microsoft.AspNetCore.Routing.dll
+C:\Users\Hadas\Desktop\project- iot\CustomerApp0707\CustomerApp\CustomerApp.iOS\bin\iPhone\Debug\Microsoft.AspNetCore.Routing.Abstractions.dll
+C:\Users\Hadas\Desktop\project- iot\CustomerApp0707\CustomerApp\CustomerApp.iOS\bin\iPhone\Debug\Microsoft.AspNetCore.SignalR.dll
+C:\Users\Hadas\Desktop\project- iot\CustomerApp0707\CustomerApp\CustomerApp.iOS\bin\iPhone\Debug\Microsoft.AspNetCore.SignalR.Client.dll
+C:\Users\Hadas\Desktop\project- iot\CustomerApp0707\CustomerApp\CustomerApp.iOS\bin\iPhone\Debug\Microsoft.AspNetCore.SignalR.Client.Core.dll
+C:\Users\Hadas\Desktop\project- iot\CustomerApp0707\CustomerApp\CustomerApp.iOS\bin\iPhone\Debug\Microsoft.AspNetCore.SignalR.Common.dll
+C:\Users\Hadas\Desktop\project- iot\CustomerApp0707\CustomerApp\CustomerApp.iOS\bin\iPhone\Debug\Microsoft.AspNetCore.SignalR.Core.dll
+C:\Users\Hadas\Desktop\project- iot\CustomerApp0707\CustomerApp\CustomerApp.iOS\bin\iPhone\Debug\Microsoft.AspNetCore.SignalR.Protocols.Json.dll
+C:\Users\Hadas\Desktop\project- iot\CustomerApp0707\CustomerApp\CustomerApp.iOS\bin\iPhone\Debug\Microsoft.AspNetCore.SignalR.Protocols.MessagePack.dll
+C:\Users\Hadas\Desktop\project- iot\CustomerApp0707\CustomerApp\CustomerApp.iOS\bin\iPhone\Debug\Microsoft.AspNetCore.WebSockets.dll
+C:\Users\Hadas\Desktop\project- iot\CustomerApp0707\CustomerApp\CustomerApp.iOS\bin\iPhone\Debug\Microsoft.AspNetCore.WebUtilities.dll
+C:\Users\Hadas\Desktop\project- iot\CustomerApp0707\CustomerApp\CustomerApp.iOS\bin\iPhone\Debug\Microsoft.Azure.Amqp.dll
+C:\Users\Hadas\Desktop\project- iot\CustomerApp0707\CustomerApp\CustomerApp.iOS\bin\iPhone\Debug\Microsoft.Azure.Cosmos.Table.dll
+C:\Users\Hadas\Desktop\project- iot\CustomerApp0707\CustomerApp\CustomerApp.iOS\bin\iPhone\Debug\Microsoft.Azure.Devices.Client.dll
+C:\Users\Hadas\Desktop\project- iot\CustomerApp0707\CustomerApp\CustomerApp.iOS\bin\iPhone\Debug\Microsoft.Azure.Devices.Shared.dll
+C:\Users\Hadas\Desktop\project- iot\CustomerApp0707\CustomerApp\CustomerApp.iOS\bin\iPhone\Debug\Microsoft.Azure.DocumentDB.Core.dll
+C:\Users\Hadas\Desktop\project- iot\CustomerApp0707\CustomerApp\CustomerApp.iOS\bin\iPhone\Debug\Microsoft.Azure.Functions.Extensions.dll
+C:\Users\Hadas\Desktop\project- iot\CustomerApp0707\CustomerApp\CustomerApp.iOS\bin\iPhone\Debug\Microsoft.Azure.KeyVault.Core.dll
+C:\Users\Hadas\Desktop\project- iot\CustomerApp0707\CustomerApp\CustomerApp.iOS\bin\iPhone\Debug\Microsoft.Azure.Services.AppAuthentication.dll
+C:\Users\Hadas\Desktop\project- iot\CustomerApp0707\CustomerApp\CustomerApp.iOS\bin\iPhone\Debug\Microsoft.Azure.SignalR.Common.dll
+C:\Users\Hadas\Desktop\project- iot\CustomerApp0707\CustomerApp\CustomerApp.iOS\bin\iPhone\Debug\Microsoft.Azure.SignalR.dll
+C:\Users\Hadas\Desktop\project- iot\CustomerApp0707\CustomerApp\CustomerApp.iOS\bin\iPhone\Debug\Microsoft.Azure.SignalR.Management.dll
+C:\Users\Hadas\Desktop\project- iot\CustomerApp0707\CustomerApp\CustomerApp.iOS\bin\iPhone\Debug\Microsoft.Azure.SignalR.Protocols.dll
+C:\Users\Hadas\Desktop\project- iot\CustomerApp0707\CustomerApp\CustomerApp.iOS\bin\iPhone\Debug\Microsoft.Azure.SignalR.Serverless.Protocols.dll
+C:\Users\Hadas\Desktop\project- iot\CustomerApp0707\CustomerApp\CustomerApp.iOS\bin\iPhone\Debug\Microsoft.Azure.Storage.Blob.dll
+C:\Users\Hadas\Desktop\project- iot\CustomerApp0707\CustomerApp\CustomerApp.iOS\bin\iPhone\Debug\Microsoft.Azure.Storage.Common.dll
+C:\Users\Hadas\Desktop\project- iot\CustomerApp0707\CustomerApp\CustomerApp.iOS\bin\iPhone\Debug\Microsoft.Azure.WebJobs.Host.dll
+C:\Users\Hadas\Desktop\project- iot\CustomerApp0707\CustomerApp\CustomerApp.iOS\bin\iPhone\Debug\Microsoft.Azure.WebJobs.dll
+C:\Users\Hadas\Desktop\project- iot\CustomerApp0707\CustomerApp\CustomerApp.iOS\bin\iPhone\Debug\Microsoft.Azure.WebJobs.Extensions.SignalRService.dll
+C:\Users\Hadas\Desktop\project- iot\CustomerApp0707\CustomerApp\CustomerApp.iOS\bin\iPhone\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Hadas\Desktop\project- iot\CustomerApp0707\CustomerApp\CustomerApp.iOS\bin\iPhone\Debug\Microsoft.Bot.Configuration.dll
+C:\Users\Hadas\Desktop\project- iot\CustomerApp0707\CustomerApp\CustomerApp.iOS\bin\iPhone\Debug\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\Hadas\Desktop\project- iot\CustomerApp0707\CustomerApp\CustomerApp.iOS\bin\iPhone\Debug\Microsoft.Extensions.Configuration.dll
+C:\Users\Hadas\Desktop\project- iot\CustomerApp0707\CustomerApp\CustomerApp.iOS\bin\iPhone\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Hadas\Desktop\project- iot\CustomerApp0707\CustomerApp\CustomerApp.iOS\bin\iPhone\Debug\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\Hadas\Desktop\project- iot\CustomerApp0707\CustomerApp\CustomerApp.iOS\bin\iPhone\Debug\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+C:\Users\Hadas\Desktop\project- iot\CustomerApp0707\CustomerApp\CustomerApp.iOS\bin\iPhone\Debug\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\Hadas\Desktop\project- iot\CustomerApp0707\CustomerApp\CustomerApp.iOS\bin\iPhone\Debug\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\Hadas\Desktop\project- iot\CustomerApp0707\CustomerApp\CustomerApp.iOS\bin\iPhone\Debug\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Hadas\Desktop\project- iot\CustomerApp0707\CustomerApp\CustomerApp.iOS\bin\iPhone\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Hadas\Desktop\project- iot\CustomerApp0707\CustomerApp\CustomerApp.iOS\bin\iPhone\Debug\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Hadas\Desktop\project- iot\CustomerApp0707\CustomerApp\CustomerApp.iOS\bin\iPhone\Debug\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\Hadas\Desktop\project- iot\CustomerApp0707\CustomerApp\CustomerApp.iOS\bin\iPhone\Debug\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\Hadas\Desktop\project- iot\CustomerApp0707\CustomerApp\CustomerApp.iOS\bin\iPhone\Debug\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\Hadas\Desktop\project- iot\CustomerApp0707\CustomerApp\CustomerApp.iOS\bin\iPhone\Debug\Microsoft.Extensions.Hosting.dll
+C:\Users\Hadas\Desktop\project- iot\CustomerApp0707\CustomerApp\CustomerApp.iOS\bin\iPhone\Debug\Microsoft.Extensions.Hosting.Abstractions.dll
+C:\Users\Hadas\Desktop\project- iot\CustomerApp0707\CustomerApp\CustomerApp.iOS\bin\iPhone\Debug\Microsoft.Extensions.Http.dll
+C:\Users\Hadas\Desktop\project- iot\CustomerApp0707\CustomerApp\CustomerApp.iOS\bin\iPhone\Debug\Microsoft.Extensions.Localization.Abstractions.dll
+C:\Users\Hadas\Desktop\project- iot\CustomerApp0707\CustomerApp\CustomerApp.iOS\bin\iPhone\Debug\Microsoft.Extensions.Logging.dll
+C:\Users\Hadas\Desktop\project- iot\CustomerApp0707\CustomerApp\CustomerApp.iOS\bin\iPhone\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Hadas\Desktop\project- iot\CustomerApp0707\CustomerApp\CustomerApp.iOS\bin\iPhone\Debug\Microsoft.Extensions.Logging.Configuration.dll
+C:\Users\Hadas\Desktop\project- iot\CustomerApp0707\CustomerApp\CustomerApp.iOS\bin\iPhone\Debug\Microsoft.Extensions.ObjectPool.dll
+C:\Users\Hadas\Desktop\project- iot\CustomerApp0707\CustomerApp\CustomerApp.iOS\bin\iPhone\Debug\Microsoft.Extensions.Options.dll
+C:\Users\Hadas\Desktop\project- iot\CustomerApp0707\CustomerApp\CustomerApp.iOS\bin\iPhone\Debug\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+C:\Users\Hadas\Desktop\project- iot\CustomerApp0707\CustomerApp\CustomerApp.iOS\bin\iPhone\Debug\Microsoft.Extensions.PlatformAbstractions.dll
+C:\Users\Hadas\Desktop\project- iot\CustomerApp0707\CustomerApp\CustomerApp.iOS\bin\iPhone\Debug\Microsoft.Extensions.Primitives.dll
+C:\Users\Hadas\Desktop\project- iot\CustomerApp0707\CustomerApp\CustomerApp.iOS\bin\iPhone\Debug\Microsoft.Identity.Client.dll
+C:\Users\Hadas\Desktop\project- iot\CustomerApp0707\CustomerApp\CustomerApp.iOS\bin\iPhone\Debug\Microsoft.IdentityModel.Clients.ActiveDirectory.dll
+C:\Users\Hadas\Desktop\project- iot\CustomerApp0707\CustomerApp\CustomerApp.iOS\bin\iPhone\Debug\Microsoft.IdentityModel.Clients.ActiveDirectory.pdb
+C:\Users\Hadas\Desktop\project- iot\CustomerApp0707\CustomerApp\CustomerApp.iOS\bin\iPhone\Debug\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Hadas\Desktop\project- iot\CustomerApp0707\CustomerApp\CustomerApp.iOS\bin\iPhone\Debug\Microsoft.IdentityModel.Logging.dll
+C:\Users\Hadas\Desktop\project- iot\CustomerApp0707\CustomerApp\CustomerApp.iOS\bin\iPhone\Debug\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Hadas\Desktop\project- iot\CustomerApp0707\CustomerApp\CustomerApp.iOS\bin\iPhone\Debug\Microsoft.Net.Http.Headers.dll
+C:\Users\Hadas\Desktop\project- iot\CustomerApp0707\CustomerApp\CustomerApp.iOS\bin\iPhone\Debug\Microsoft.OData.Core.dll
+C:\Users\Hadas\Desktop\project- iot\CustomerApp0707\CustomerApp\CustomerApp.iOS\bin\iPhone\Debug\Microsoft.OData.Edm.dll
+C:\Users\Hadas\Desktop\project- iot\CustomerApp0707\CustomerApp\CustomerApp.iOS\bin\iPhone\Debug\Microsoft.Rest.ClientRuntime.dll
+C:\Users\Hadas\Desktop\project- iot\CustomerApp0707\CustomerApp\CustomerApp.iOS\bin\iPhone\Debug\Microsoft.Spatial.dll
+C:\Users\Hadas\Desktop\project- iot\CustomerApp0707\CustomerApp\CustomerApp.iOS\bin\iPhone\Debug\Microsoft.Win32.Registry.dll
+C:\Users\Hadas\Desktop\project- iot\CustomerApp0707\CustomerApp\CustomerApp.iOS\bin\iPhone\Debug\Nancy.dll
+C:\Users\Hadas\Desktop\project- iot\CustomerApp0707\CustomerApp\CustomerApp.iOS\bin\iPhone\Debug\Newtonsoft.Json.dll
+C:\Users\Hadas\Desktop\project- iot\CustomerApp0707\CustomerApp\CustomerApp.iOS\bin\iPhone\Debug\System.Buffers.dll
+C:\Users\Hadas\Desktop\project- iot\CustomerApp0707\CustomerApp\CustomerApp.iOS\bin\iPhone\Debug\System.Collections.Immutable.dll
+C:\Users\Hadas\Desktop\project- iot\CustomerApp0707\CustomerApp\CustomerApp.iOS\bin\iPhone\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\Hadas\Desktop\project- iot\CustomerApp0707\CustomerApp\CustomerApp.iOS\bin\iPhone\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Hadas\Desktop\project- iot\CustomerApp0707\CustomerApp\CustomerApp.iOS\bin\iPhone\Debug\System.Diagnostics.Process.dll
+C:\Users\Hadas\Desktop\project- iot\CustomerApp0707\CustomerApp\CustomerApp.iOS\bin\iPhone\Debug\System.Diagnostics.TraceSource.dll
+C:\Users\Hadas\Desktop\project- iot\CustomerApp0707\CustomerApp\CustomerApp.iOS\bin\iPhone\Debug\System.Globalization.Extensions.dll
+C:\Users\Hadas\Desktop\project- iot\CustomerApp0707\CustomerApp\CustomerApp.iOS\bin\iPhone\Debug\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Hadas\Desktop\project- iot\CustomerApp0707\CustomerApp\CustomerApp.iOS\bin\iPhone\Debug\System.IO.Pipelines.dll
+C:\Users\Hadas\Desktop\project- iot\CustomerApp0707\CustomerApp\CustomerApp.iOS\bin\iPhone\Debug\System.Memory.dll
+C:\Users\Hadas\Desktop\project- iot\CustomerApp0707\CustomerApp\CustomerApp.iOS\bin\iPhone\Debug\System.Net.Http.dll
+C:\Users\Hadas\Desktop\project- iot\CustomerApp0707\CustomerApp\CustomerApp.iOS\bin\iPhone\Debug\System.Net.NameResolution.dll
+C:\Users\Hadas\Desktop\project- iot\CustomerApp0707\CustomerApp\CustomerApp.iOS\bin\iPhone\Debug\System.Net.NetworkInformation.dll
+C:\Users\Hadas\Desktop\project- iot\CustomerApp0707\CustomerApp\CustomerApp.iOS\bin\iPhone\Debug\System.Net.Requests.dll
+C:\Users\Hadas\Desktop\project- iot\CustomerApp0707\CustomerApp\CustomerApp.iOS\bin\iPhone\Debug\System.Net.Security.dll
+C:\Users\Hadas\Desktop\project- iot\CustomerApp0707\CustomerApp\CustomerApp.iOS\bin\iPhone\Debug\System.Net.WebSockets.Client.dll
+C:\Users\Hadas\Desktop\project- iot\CustomerApp0707\CustomerApp\CustomerApp.iOS\bin\iPhone\Debug\System.Net.WebSockets.WebSocketProtocol.dll
+C:\Users\Hadas\Desktop\project- iot\CustomerApp0707\CustomerApp\CustomerApp.iOS\bin\iPhone\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Hadas\Desktop\project- iot\CustomerApp0707\CustomerApp\CustomerApp.iOS\bin\iPhone\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Hadas\Desktop\project- iot\CustomerApp0707\CustomerApp\CustomerApp.iOS\bin\iPhone\Debug\System.Security.AccessControl.dll
+C:\Users\Hadas\Desktop\project- iot\CustomerApp0707\CustomerApp\CustomerApp.iOS\bin\iPhone\Debug\System.Security.Cryptography.Cng.dll
+C:\Users\Hadas\Desktop\project- iot\CustomerApp0707\CustomerApp\CustomerApp.iOS\bin\iPhone\Debug\System.Security.Principal.Windows.dll
+C:\Users\Hadas\Desktop\project- iot\CustomerApp0707\CustomerApp\CustomerApp.iOS\bin\iPhone\Debug\System.Security.SecureString.dll
+C:\Users\Hadas\Desktop\project- iot\CustomerApp0707\CustomerApp\CustomerApp.iOS\bin\iPhone\Debug\System.Text.Encodings.Web.dll
+C:\Users\Hadas\Desktop\project- iot\CustomerApp0707\CustomerApp\CustomerApp.iOS\bin\iPhone\Debug\System.Text.Json.dll
+C:\Users\Hadas\Desktop\project- iot\CustomerApp0707\CustomerApp\CustomerApp.iOS\bin\iPhone\Debug\System.Threading.Channels.dll
+C:\Users\Hadas\Desktop\project- iot\CustomerApp0707\CustomerApp\CustomerApp.iOS\bin\iPhone\Debug\System.Threading.Tasks.Dataflow.dll
+C:\Users\Hadas\Desktop\project- iot\CustomerApp0707\CustomerApp\CustomerApp.iOS\bin\iPhone\Debug\Microsoft.WindowsAzure.Storage.dll
+C:\Users\Hadas\Desktop\project- iot\CustomerApp0707\CustomerApp\CustomerApp.iOS\bin\iPhone\Debug\Microsoft.WindowsAzure.Storage.pdb
+C:\Users\Hadas\Desktop\project- iot\CustomerApp0707\CustomerApp\CustomerApp.iOS\bin\iPhone\Debug\Xamanimation.dll
+C:\Users\Hadas\Desktop\project- iot\CustomerApp0707\CustomerApp\CustomerApp.iOS\bin\iPhone\Debug\Xamarin.CommunityToolkit.dll
+C:\Users\Hadas\Desktop\project- iot\CustomerApp0707\CustomerApp\CustomerApp.iOS\bin\iPhone\Debug\Xamarin.Essentials.dll
+C:\Users\Hadas\Desktop\project- iot\CustomerApp0707\CustomerApp\CustomerApp.iOS\bin\iPhone\Debug\Xamarin.Essentials.pdb
+C:\Users\Hadas\Desktop\project- iot\CustomerApp0707\CustomerApp\CustomerApp.iOS\bin\iPhone\Debug\Xamarin.Forms.Core.dll
+C:\Users\Hadas\Desktop\project- iot\CustomerApp0707\CustomerApp\CustomerApp.iOS\bin\iPhone\Debug\Xamarin.Forms.Core.pdb
+C:\Users\Hadas\Desktop\project- iot\CustomerApp0707\CustomerApp\CustomerApp.iOS\bin\iPhone\Debug\Xamarin.Forms.Platform.dll
+C:\Users\Hadas\Desktop\project- iot\CustomerApp0707\CustomerApp\CustomerApp.iOS\bin\iPhone\Debug\Xamarin.Forms.Platform.iOS.dll
+C:\Users\Hadas\Desktop\project- iot\CustomerApp0707\CustomerApp\CustomerApp.iOS\bin\iPhone\Debug\Xamarin.Forms.Platform.iOS.pdb
+C:\Users\Hadas\Desktop\project- iot\CustomerApp0707\CustomerApp\CustomerApp.iOS\bin\iPhone\Debug\Xamarin.Forms.Xaml.dll
+C:\Users\Hadas\Desktop\project- iot\CustomerApp0707\CustomerApp\CustomerApp.iOS\bin\iPhone\Debug\Xamarin.Forms.Xaml.pdb
+C:\Users\Hadas\Desktop\project- iot\CustomerApp0707\CustomerApp\CustomerApp.iOS\bin\iPhone\Debug\ar\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\Hadas\Desktop\project- iot\CustomerApp0707\CustomerApp\CustomerApp.iOS\bin\iPhone\Debug\ca\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\Hadas\Desktop\project- iot\CustomerApp0707\CustomerApp\CustomerApp.iOS\bin\iPhone\Debug\cs\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\Hadas\Desktop\project- iot\CustomerApp0707\CustomerApp\CustomerApp.iOS\bin\iPhone\Debug\da\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\Hadas\Desktop\project- iot\CustomerApp0707\CustomerApp\CustomerApp.iOS\bin\iPhone\Debug\de\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\Hadas\Desktop\project- iot\CustomerApp0707\CustomerApp\CustomerApp.iOS\bin\iPhone\Debug\el\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\Hadas\Desktop\project- iot\CustomerApp0707\CustomerApp\CustomerApp.iOS\bin\iPhone\Debug\es\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\Hadas\Desktop\project- iot\CustomerApp0707\CustomerApp\CustomerApp.iOS\bin\iPhone\Debug\fi\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\Hadas\Desktop\project- iot\CustomerApp0707\CustomerApp\CustomerApp.iOS\bin\iPhone\Debug\fr\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\Hadas\Desktop\project- iot\CustomerApp0707\CustomerApp\CustomerApp.iOS\bin\iPhone\Debug\he\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\Hadas\Desktop\project- iot\CustomerApp0707\CustomerApp\CustomerApp.iOS\bin\iPhone\Debug\hi\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\Hadas\Desktop\project- iot\CustomerApp0707\CustomerApp\CustomerApp.iOS\bin\iPhone\Debug\hr\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\Hadas\Desktop\project- iot\CustomerApp0707\CustomerApp\CustomerApp.iOS\bin\iPhone\Debug\hu\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\Hadas\Desktop\project- iot\CustomerApp0707\CustomerApp\CustomerApp.iOS\bin\iPhone\Debug\id\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\Hadas\Desktop\project- iot\CustomerApp0707\CustomerApp\CustomerApp.iOS\bin\iPhone\Debug\it\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\Hadas\Desktop\project- iot\CustomerApp0707\CustomerApp\CustomerApp.iOS\bin\iPhone\Debug\ja\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\Hadas\Desktop\project- iot\CustomerApp0707\CustomerApp\CustomerApp.iOS\bin\iPhone\Debug\ko\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\Hadas\Desktop\project- iot\CustomerApp0707\CustomerApp\CustomerApp.iOS\bin\iPhone\Debug\ms\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\Hadas\Desktop\project- iot\CustomerApp0707\CustomerApp\CustomerApp.iOS\bin\iPhone\Debug\nb\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\Hadas\Desktop\project- iot\CustomerApp0707\CustomerApp\CustomerApp.iOS\bin\iPhone\Debug\nl\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\Hadas\Desktop\project- iot\CustomerApp0707\CustomerApp\CustomerApp.iOS\bin\iPhone\Debug\pl\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\Hadas\Desktop\project- iot\CustomerApp0707\CustomerApp\CustomerApp.iOS\bin\iPhone\Debug\pt-BR\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\Hadas\Desktop\project- iot\CustomerApp0707\CustomerApp\CustomerApp.iOS\bin\iPhone\Debug\pt\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\Hadas\Desktop\project- iot\CustomerApp0707\CustomerApp\CustomerApp.iOS\bin\iPhone\Debug\ro\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\Hadas\Desktop\project- iot\CustomerApp0707\CustomerApp\CustomerApp.iOS\bin\iPhone\Debug\ru\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\Hadas\Desktop\project- iot\CustomerApp0707\CustomerApp\CustomerApp.iOS\bin\iPhone\Debug\sk\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\Hadas\Desktop\project- iot\CustomerApp0707\CustomerApp\CustomerApp.iOS\bin\iPhone\Debug\sv\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\Hadas\Desktop\project- iot\CustomerApp0707\CustomerApp\CustomerApp.iOS\bin\iPhone\Debug\th\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\Hadas\Desktop\project- iot\CustomerApp0707\CustomerApp\CustomerApp.iOS\bin\iPhone\Debug\tr\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\Hadas\Desktop\project- iot\CustomerApp0707\CustomerApp\CustomerApp.iOS\bin\iPhone\Debug\uk\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\Hadas\Desktop\project- iot\CustomerApp0707\CustomerApp\CustomerApp.iOS\bin\iPhone\Debug\vi\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\Hadas\Desktop\project- iot\CustomerApp0707\CustomerApp\CustomerApp.iOS\bin\iPhone\Debug\zh-HK\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\Hadas\Desktop\project- iot\CustomerApp0707\CustomerApp\CustomerApp.iOS\bin\iPhone\Debug\zh-Hans\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\Hadas\Desktop\project- iot\CustomerApp0707\CustomerApp\CustomerApp.iOS\bin\iPhone\Debug\zh-Hant\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\Hadas\Desktop\project- iot\CustomerApp0707\CustomerApp\CustomerApp.iOS\bin\iPhone\Debug\Xamarin.Forms.MultiSelectListView.dll
+C:\Users\Hadas\Desktop\project- iot\CustomerApp0707\CustomerApp\CustomerApp.iOS\bin\iPhone\Debug\Xamvvm.Core.dll
+C:\Users\Hadas\Desktop\project- iot\CustomerApp0707\CustomerApp\CustomerApp.iOS\bin\iPhone\Debug\Xamvvm.Forms.dll
+C:\Users\Hadas\Desktop\project- iot\CustomerApp0707\CustomerApp\CustomerApp.iOS\bin\iPhone\Debug\ZXing.Net.Mobile.Core.dll
+C:\Users\Hadas\Desktop\project- iot\CustomerApp0707\CustomerApp\CustomerApp.iOS\bin\iPhone\Debug\ZXingNetMobile.dll
+C:\Users\Hadas\Desktop\project- iot\CustomerApp0707\CustomerApp\CustomerApp.iOS\bin\iPhone\Debug\zxing.portable.dll
+C:\Users\Hadas\Desktop\project- iot\CustomerApp0707\CustomerApp\CustomerApp.iOS\bin\iPhone\Debug\ZXing.Net.Mobile.Forms.dll
+C:\Users\Hadas\Desktop\project- iot\CustomerApp0707\CustomerApp\CustomerApp.iOS\bin\iPhone\Debug\ZXing.Net.Mobile.Forms.iOS.dll
+C:\Users\Hadas\Desktop\project- iot\CustomerApp0707\CustomerApp\CustomerApp.iOS\bin\iPhone\Debug\CustomerApp.dll
+C:\Users\Hadas\Desktop\project- iot\CustomerApp0707\CustomerApp\CustomerApp.iOS\bin\iPhone\Debug\CustomerApp.pdb
+C:\Users\Hadas\Desktop\project- iot\CustomerApp0707\CustomerApp\CustomerApp.iOS\obj\iPhone\Debug\actool\_PartialAppManifest.items
+C:\Users\Hadas\Desktop\project- iot\CustomerApp0707\CustomerApp\CustomerApp.iOS\obj\iPhone\Debug\actool\_BundleResourceWithLogicalName.items
+C:\Users\Hadas\Desktop\project- iot\CustomerApp0707\CustomerApp\CustomerApp.iOS\obj\iPhone\Debug\ibtool\_BundleResourceWithLogicalName.items
+C:\Users\Hadas\Desktop\project- iot\CustomerApp0707\CustomerApp\CustomerApp.iOS\obj\iPhone\Debug\coremlc\_PartialAppManifest.items
+C:\Users\Hadas\Desktop\project- iot\CustomerApp0707\CustomerApp\CustomerApp.iOS\obj\iPhone\Debug\coremlc\_BundleResourceWithLogicalName.items
+C:\Users\Hadas\Desktop\project- iot\CustomerApp0707\CustomerApp\CustomerApp.iOS\obj\iPhone\Debug\optimized\
+C:\Users\Hadas\Desktop\project- iot\CustomerApp0707\CustomerApp\CustomerApp.iOS\obj\iPhone\Debug\CustomerApp.iOS.csprojAssemblyReference.cache
+C:\Users\Hadas\Desktop\project- iot\CustomerApp0707\CustomerApp\CustomerApp.iOS\obj\iPhone\Debug\CustomerApp.iOS.csproj.CoreCompileInputs.cache
+C:\Users\Hadas\Desktop\project- iot\CustomerApp0707\CustomerApp\CustomerApp.iOS\obj\iPhone\Debug\CustomerApp.iOS.csproj.CopyComplete
+C:\Users\Hadas\Desktop\project- iot\CustomerApp0707\CustomerApp\CustomerApp.iOS\obj\iPhone\Debug\CustomerApp.iOS.exe
+C:\Users\Hadas\Desktop\project- iot\CustomerApp0707\CustomerApp\CustomerApp.iOS\obj\iPhone\Debug\CustomerApp.iOS.pdb
+C:\Users\Hadas\Desktop\project- iot\CustomerApp0707\CustomerApp\CustomerApp.iOS\bin\iPhone\Debug\Acr.UserDialogs.dll
+C:\Users\Hadas\Desktop\project- iot\CustomerApp0707\CustomerApp\CustomerApp.iOS\bin\iPhone\Debug\Acr.UserDialogs.pdb
+C:\Users\Hadas\Desktop\project- iot\CustomerApp0707\CustomerApp\CustomerApp.iOS\bin\iPhone\Debug\BTProgressHUD.dll

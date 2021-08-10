@@ -1,0 +1,84 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:xct="clr-namespace:Xamarin.CommunityToolkit.UI.Views;assembly=Xamarin.CommunityToolkit"
+             xmlns:viewmodels="clr-namespace:CustomerApp.ViewModels"
+             x:Class="CustomerApp.Views.ChooseTagsPage"
+             xmlns:lv="clr-namespace:Xamarin.Forms.MultiSelectListView;assembly=Xamarin.Forms.MultiSelectListView" Padding="0,20,0,0"
+             BackgroundImageSource="backgroundPinkBlue2.jpg">
+
+    <!-- design based on https://github.com/xamarin/xamarin-forms-samples -->
+
+    <NavigationPage.TitleView>
+        <Label Text="Filter" FontSize="18" TextColor="White" FontAttributes="Bold"/>
+    </NavigationPage.TitleView>
+
+    <ContentPage.ToolbarItems>
+        <ToolbarItem Name="Done" Activated="OnClick"  Order="Primary" Priority="0"  />
+    </ContentPage.ToolbarItems>
+
+    <ScrollView Margin="20">
+        <StackLayout BindableLayout.ItemsSource="{Binding categories}">
+            <BindableLayout.ItemTemplate>
+                <DataTemplate>
+                    <xct:Expander ExpandAnimationEasing="CubicIn"
+                                  ExpandAnimationLength="500"
+                                  CollapseAnimationEasing="CubicOut"
+                                  CollapseAnimationLength="500">
+                        <xct:Expander.Header>
+                            <Grid>
+                                <Label Text="{Binding Name}"
+                                       FontAttributes="Bold"
+                                       FontSize="Medium" />
+                                <Image Source="expand.png"
+                                       HorizontalOptions="End"
+                                       VerticalOptions="Start">
+                                    <Image.Triggers>
+                                        <DataTrigger TargetType="Image"
+                                                     Binding="{Binding Source={RelativeSource AncestorType={x:Type xct:Expander}}, Path=IsExpanded}"
+                                                     Value="True">
+                                            <Setter Property="Source"
+                                                    Value="collapse.png" />
+                                        </DataTrigger>
+                                    </Image.Triggers>
+                                </Image>
+                            </Grid>
+                        </xct:Expander.Header>
+
+                        <ListView x:Name="lvwUsers" ItemTapped="ProfileDetails_Selected"
+                            HasUnevenRows="true"
+                            SeparatorVisibility="Default" 
+                            ItemsSource="{Binding TagsCollection}"
+                            lv:MultiSelect.Enable="true">
+                            <ListView.ItemTemplate>
+                                <DataTemplate>
+                                    <lv:SelectableCell x:Name="SelectableCell">
+                                        <lv:SelectableCell.CheckView>
+                                            <Image Source="selectPurple.jpeg" WidthRequest="30" HeightRequest="30"></Image>
+                                        </lv:SelectableCell.CheckView>
+
+                                        <lv:SelectableCell.DataView>
+                                            <StackLayout Orientation="Vertical" Padding="20,0,20,0">
+                                                <Label Text="{Binding tagName}" FontSize="17" ></Label>
+                                            </StackLayout>
+                                        </lv:SelectableCell.DataView>
+                                    </lv:SelectableCell>
+                                </DataTemplate>
+                            </ListView.ItemTemplate>
+                        </ListView>
+                    </xct:Expander>
+                </DataTemplate>
+            </BindableLayout.ItemTemplate>
+        </StackLayout>
+    </ScrollView>
+</ContentPage>
+
+
+
+
+
+
+
+
+
+

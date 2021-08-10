@@ -1,0 +1,55 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="LoginViewSample.Core.Views.ItemLocationPage">
+ 
+    <ContentPage.ToolbarItems>
+        <ToolbarItem Name="Back to Main Page" Activated="OnClick"  Order="Primary" Priority="0" IconImageSource="homeButton.png"/>
+    </ContentPage.ToolbarItems>
+
+    <RelativeLayout>
+        <Grid>
+            <Grid.RowDefinitions>
+                <RowDefinition Height="Auto"/>
+                <RowDefinition />
+            </Grid.RowDefinitions>
+
+            <Label x:Name="textLabel"
+                   Grid.Row="0" 
+                   FontAttributes="Bold"
+                   FontSize="Large"
+                   HorizontalOptions="Center"/>
+
+            <Image x:Name="imagePlaceHolder"
+                   Grid.Row="1"
+                   Aspect="AspectFill"/>
+
+            <Image x:Name="ImageToShow"  
+                   Grid.Row = "1"
+                   WidthRequest = "250"
+                   HeightRequest = "250"
+                   MinimumHeightRequest = "250"
+                   MinimumWidthRequest = "250"
+                   Aspect="AspectFit"/>
+        </Grid>
+
+        <Grid RelativeLayout.WidthConstraint="{ConstraintExpression Type=RelativeToParent,Property=Width}"
+              RelativeLayout.HeightConstraint="{ConstraintExpression Type=RelativeToParent,Property=Height}">
+        </Grid>
+
+        <StackLayout
+            Margin="0, 280, 50, 50">
+            <Label  VerticalOptions="Center" HorizontalOptions="Center"/>
+            <TableView Intent="Form" RowHeight="100">
+                <TableRoot>
+                    <TableSection>
+                        <ImageCell x:Name="standCell" ImageSource="standIcon_Rounded.png" Text="Stand"/>
+                        <ImageCell x:Name="fittingCell" ImageSource="fittingRoomIcon_Rounded.png" Text="Fitting Room"/>
+                        <ImageCell x:Name="storeroomCell" ImageSource="storeroomIcon_Rounded.png" Text="Storeroom" />
+                    </TableSection>
+                </TableRoot>
+            </TableView>
+        </StackLayout>
+    </RelativeLayout>
+</ContentPage>
+

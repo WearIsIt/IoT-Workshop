@@ -1,0 +1,201 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="CustomerApp.Views.LeaderBoardPage" 
+             xmlns:local="clr-namespace:CustomerApp.ViewModels"
+             NavigationPage.HasBackButton="False"
+             NavigationPage.HasNavigationBar="False">
+
+    <Grid x:Name="TopThreeGrid" BackgroundColor="Transparent">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="0.1*" />
+            <RowDefinition Height="0.35*" />
+            <RowDefinition Height="0.6*" />
+        </Grid.RowDefinitions>
+        <Image HorizontalOptions="FillAndExpand" Opacity="0.76" VerticalOptions="FillAndExpand" Aspect="AspectFill" Source="podium.jpg"  Grid.RowSpan="2"/>
+        
+        <!--  Title  -->
+        <Label
+            Grid.Row="0"
+            FontAttributes="Bold"
+            Margin="10,-24,10,10"
+            FontSize="19"
+            HorizontalTextAlignment="Center"
+            Text="Top Scanned Items"
+            TextColor="Black"
+            VerticalOptions="CenterAndExpand" />
+
+        <Grid Grid.Row="1" ColumnSpacing="10">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="*" />
+                <ColumnDefinition Width="*" />
+                <ColumnDefinition Width="*" />
+            </Grid.ColumnDefinitions>
+            
+            <!--  Second place  -->
+            <Grid Grid.Column="0">
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="0.4*" />
+                    <RowDefinition Height="0.5*" />
+                    <RowDefinition Height="0.55*" />
+                </Grid.RowDefinitions>
+                <Image
+                    x:Name="secondPlaceImage"     
+                    Grid.Row="1"
+                    Source="placeholderLeaderBoard.jpeg"
+                    TranslationX="15"
+                    TranslationY="-2"
+                    Margin="30,-33,8,30"/>
+                <Label
+                    x:Name="secondPlaceLabel"
+                    Grid.Row="2"
+                    Margin="40,60,1,10"
+                    FontAttributes="Bold"
+                    HorizontalTextAlignment="Center"
+                    LineBreakMode="TailTruncation"
+                    Text="Second place"
+                    TextColor="Black"/>
+            </Grid>
+            
+            <!--  First place  -->
+            <Grid Grid.Column="1">
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="0.7*"/>
+                    <RowDefinition Height="0.25*"/>
+                </Grid.RowDefinitions>
+                <Image
+                    x:Name="firstPlaceImage"
+                    Grid.Row="0"
+                    Margin="10,-57,10,10"               
+                    Source="placeholderLeaderBoard.jpeg"/>
+                <Label
+                    x:Name="firstPlaceLabel"
+                    Grid.Row="1"
+                    Margin="0,32,1,10"
+                    FontAttributes="Bold"
+                    HorizontalTextAlignment="Center"
+                    LineBreakMode="TailTruncation"
+                    Text="First place"
+                    TextColor="Black"/>
+            </Grid>
+            
+            <!--  Third place  -->
+            <Grid Grid.Column="2">
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="0.1*"/>
+                    <RowDefinition Height="0.8*"/>
+                    <RowDefinition Height="0.35*"/>
+                </Grid.RowDefinitions>
+
+                <Image
+                    x:Name="thirdPlaceImage"
+                    Grid.Row="1"
+                    TranslationX="-35"
+                    TranslationY="-25"
+                    Margin="30,18,10,12"
+                    Source="placeholderLeaderBoard.jpeg"/>
+                <Label
+                    x:Name="thirdPlaceLabel"
+                    Margin="0,35,46,0"
+                    Grid.Row="2"
+                    FontAttributes="Bold"
+                    HorizontalTextAlignment="Center"
+                    LineBreakMode="TailTruncation"
+                    Text="Third place"
+                    TextColor="Black"/>
+            </Grid>
+        </Grid>
+
+        <StackLayout
+            Grid.Row="2"
+            Padding="20,10,20,0"
+            BackgroundColor="#E1E2E1">
+            <ListView 
+                x:Name="MyListView"   
+                ItemsSource="{Binding Items}"
+                ItemSelected="MyListView_ItemSelected"
+                SelectionMode="Single"
+                RowHeight="70"
+                VerticalOptions="FillAndExpand"
+                Header="">
+
+                <ListView.HeaderTemplate>
+                    <DataTemplate>
+                        <Grid>
+                            <Grid.ColumnDefinitions>
+                                <ColumnDefinition Width=".1*"/>
+                                <ColumnDefinition Width=".2*"/>
+                                <ColumnDefinition Width=".45*"/>
+                                <ColumnDefinition Width=".2*"/>
+                            </Grid.ColumnDefinitions>
+
+                            <Label
+                                Grid.Column="0"
+                                FontSize="16"
+                                HorizontalOptions="Center"
+                                Text="rank"
+                                VerticalOptions="Center"/>
+                            <Label
+                                Grid.Column="1"
+                                FontSize="16"
+                                HorizontalOptions="Center"
+                                Text="image"
+                                VerticalOptions="Center"/>
+                            <Label
+                                Grid.Column="2"
+                                FontSize="16"
+                                HorizontalOptions="Start"
+                                Margin="25,10,10,10"
+                                Text="item name"
+                                VerticalOptions="Center"/>
+                            <Label
+                                Grid.Column="3"
+                                FontSize="16"
+                                HorizontalOptions="Center"
+                                Text="no. of scans"
+                                VerticalOptions="Center"/>
+                        </Grid>
+                    </DataTemplate>
+                </ListView.HeaderTemplate>
+
+                <ListView.ItemTemplate>
+                    <DataTemplate >
+                        <ViewCell>
+                            <Grid x:Name="GridOfListView" BackgroundColor="White">
+                                <Grid.ColumnDefinitions>
+                                    <ColumnDefinition Width=".1*"/>
+                                    <ColumnDefinition Width=".2*"/>
+                                    <ColumnDefinition Width=".45*"/>
+                                    <ColumnDefinition Width=".2*"/>
+                                </Grid.ColumnDefinitions>
+                                <Label                                   
+                                    Grid.Column="0"
+                                    FontSize="16"
+                                    HorizontalOptions="Center"
+                                    Text="{Binding rank}"
+                                    VerticalOptions="Center"/>
+                                <Image
+                                    Grid.Column="1"
+                                    Margin="10"
+                                    Source="{Binding image}"/>
+                                <Label
+                                    Grid.Column="2"
+                                    FontSize="16"
+                                    Margin="25,10,10,10"
+                                    Text="{Binding itemName}"
+                                    VerticalOptions="Center"/>
+                                <Label
+                                    Grid.Column="3"
+                                    FontSize="16"
+                                    Margin="-20,10,10,10"
+                                    HorizontalOptions="Center"
+                                    Text="{Binding score}"
+                                    VerticalOptions="Center"/>
+                            </Grid>
+                        </ViewCell>
+                    </DataTemplate>
+                </ListView.ItemTemplate>
+            </ListView>
+        </StackLayout>
+    </Grid>
+</ContentPage>

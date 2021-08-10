@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="CustomerApp.Views.ScannerPage"
+             xmlns:zxing="clr-namespace:ZXing.Net.Mobile.Forms;assembly=ZXing.Net.Mobile.Forms">
+
+    <StackLayout>
+        <Frame BackgroundColor="#f1dadf" Padding="0" CornerRadius="0">
+            <Label Text="Barcode" HorizontalTextAlignment="Center" VerticalTextAlignment="End" FontAttributes="Bold" TextColor="White" FontSize="30" TranslationY="-11" />
+        </Frame>
+        <zxing:ZXingScannerView x:Name="scanViewer" IsScanning="True" OnScanResult="ZXingScannerView_OnScanResult"/>
+    </StackLayout>
+</ContentPage>
+  
+    

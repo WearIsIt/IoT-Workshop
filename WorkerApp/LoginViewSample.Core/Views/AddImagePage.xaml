@@ -1,0 +1,69 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="LoginViewSample.Core.Views.AddImagePage"
+             Title="{Binding Title}">
+
+    <Grid Padding="20">
+        <Grid.RowDefinitions>
+            <RowDefinition />
+            <RowDefinition />
+        </Grid.RowDefinitions>
+
+        <Grid>
+            <Grid.RowDefinitions>
+                <RowDefinition Height="Auto"/>
+                <RowDefinition />
+            </Grid.RowDefinitions>
+
+            <Label Grid.Row="0"
+                   Text="Upload an Image"
+                   FontAttributes="Bold"
+                   FontSize="Large"
+                   HorizontalOptions="Center"/>
+
+            <Image Grid.Row="1"
+                   Aspect="AspectFill"
+                   IsVisible="{Binding IsImagePlaceholderVisible}"
+                   Source="image_preview_placeholderLight.jpeg"/>
+
+            <Image Grid.Row="1"
+                   Aspect="AspectFit"
+                   Source="{Binding ImageSource}"/>
+        </Grid>
+
+        <Grid Grid.Row="1" TranslationY="10">
+            <Grid.RowDefinitions>
+                <RowDefinition Height="Auto"/>
+                <RowDefinition/>
+            </Grid.RowDefinitions>
+
+            <Grid ColumnSpacing="8">
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition/>
+                    <ColumnDefinition/>
+                </Grid.ColumnDefinitions>
+
+                <Button BackgroundColor="#c1a4ae"
+                        Command="{Binding PickPictureCommand}"
+                        Text="Pick"/>
+                <Button Grid.Column="1"
+                        BackgroundColor="#c1a4ae"
+                        Command="{Binding TakePictureCommand}"
+                        Text="Take"/>
+                <Button 
+                        Grid.Column="2"
+                        BackgroundColor="#c1a4ae" 
+                        IsEnabled="{Binding EditButton}"
+                        Clicked="Button_Clicked"
+                        BorderWidth="1"  
+                        Text="Edit"/>
+            </Grid>
+
+            <ScrollView Grid.Row="1" TranslationY="10"
+                        VerticalScrollBarVisibility="Default">
+                <Label Text="{Binding ResultText}" FontSize="Medium"/>
+            </ScrollView>
+        </Grid>
+    </Grid>
+</ContentPage>

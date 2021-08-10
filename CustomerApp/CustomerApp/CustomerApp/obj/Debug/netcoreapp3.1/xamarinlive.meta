@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<XamlProjectMeta xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Files>
+    <XamlFileMeta>
+      <FilePath>C:\Users\Hadas\source\repos\CustomerApp\CustomerApp\CustomerApp\App.xaml</FilePath>
+      <Hash>3B-53-00-15-B8-DB-94-C8-6E-07-F0-6D-AD-09-A0-B9</Hash>
+      <Properties />
+    </XamlFileMeta>
+    <XamlFileMeta>
+      <FilePath>C:\Users\Hadas\source\repos\CustomerApp\CustomerApp\CustomerApp\MainPage.xaml</FilePath>
+      <Hash>ED-41-6F-8C-FB-AB-37-C3-E4-61-13-D1-10-9B-BD-24</Hash>
+      <Properties />
+    </XamlFileMeta>
+    <XamlFileMeta>
+      <FilePath>C:\Users\Hadas\source\repos\CustomerApp\CustomerApp\CustomerApp\Views\ItemLocationPage.xaml</FilePath>
+      <Hash>F7-D0-66-0B-AE-6A-A4-88-F8-CE-91-71-71-0A-09-D7</Hash>
+      <Properties />
+    </XamlFileMeta>
+    <XamlFileMeta>
+      <FilePath>C:\Users\Hadas\source\repos\CustomerApp\CustomerApp\CustomerApp\Views\LoginPage.xaml</FilePath>
+      <Hash>B0-62-08-90-22-EE-B5-DD-2E-BB-89-CC-14-2D-BD-DB</Hash>
+      <Properties />
+    </XamlFileMeta>
+    <XamlFileMeta>
+      <FilePath>C:\Users\Hadas\source\repos\CustomerApp\CustomerApp\CustomerApp\Views\MainPage.xaml</FilePath>
+      <Hash>B4-09-B2-43-56-51-B6-63-DC-AC-8C-1F-A6-18-25-42</Hash>
+      <Properties />
+    </XamlFileMeta>
+    <XamlFileMeta>
+      <FilePath>C:\Users\Hadas\source\repos\CustomerApp\CustomerApp\CustomerApp\Views\ScannerPage.xaml</FilePath>
+      <Hash>20-EE-A1-8C-16-C2-6E-82-04-67-2E-F0-3B-2D-73-BC</Hash>
+      <Properties />
+    </XamlFileMeta>
+    <XamlFileMeta>
+      <FilePath>C:\Users\Hadas\source\repos\CustomerApp\CustomerApp\CustomerApp\Views\WelcomePage.xaml</FilePath>
+      <Hash>DD-3B-8E-F3-15-79-E1-97-20-BE-4A-D5-F0-DD-32-5A</Hash>
+      <Properties>
+        <string>BackgroundColor</string>
+        <string>NavigationPage.HasNavigationBar</string>
+      </Properties>
+    </XamlFileMeta>
+  </Files>
+</XamlProjectMeta>

@@ -1,0 +1,71 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="CustomerApp.Views.WelcomePage"
+             BackgroundColor="Transparent"
+             NavigationPage.HasNavigationBar="False">
+
+    <AbsoluteLayout>
+        <Image
+            AbsoluteLayout.LayoutBounds="0,0,1,1"
+            AbsoluteLayout.LayoutFlags="All"
+            Aspect="AspectFill"
+            Opacity="0.9" 
+            Source="PinkDressFade.jpg"/>
+        <StackLayout           
+            Margin="10,30,10,30"
+            AbsoluteLayout.LayoutBounds="0,0,1,1"
+            AbsoluteLayout.LayoutFlags="All"
+            Spacing="20"
+            VerticalOptions="EndAndExpand">
+            <StackLayout              
+                Orientation="Vertical"
+                Spacing="10"
+                HorizontalOptions="FillAndExpand">
+                <Label Text="WearIsIt"  TextColor="#B86B77" FontSize="31" FontAttributes="Bold" TranslationX="210" TranslationY="-498"/>
+                <Button
+                    x:Name="FaceButton"
+                    TranslationY="-50"
+                    Opacity="0"
+                    HeightRequest="60" 
+                    BackgroundColor="Transparent"
+                    BorderColor="#B86B77"
+                    CornerRadius="5"
+                    BorderWidth="3"  
+                    Text="Continue as guest"
+                    TextColor="#B86B77"
+                    HorizontalOptions="FillAndExpand"
+                    Command="{Binding ContinueAsGuestCommand}"/>
+
+                <StackLayout Orientation="Horizontal" HorizontalOptions="FillAndExpand">
+                    <Button
+                        x:Name="LoginButton"
+                        TranslationX="-50"
+                        Opacity="0"
+                        HeightRequest="60"
+                        BackgroundColor="Transparent"
+                        BorderColor="#B86B77"
+                        BorderWidth="3"  
+                        CornerRadius="5"
+                        Text="LOGIN"                    
+                        TextColor="#B86B77"
+                        HorizontalOptions="FillAndExpand"
+                        Command="{Binding LogInCommand}"/>
+                    <Button
+                        x:Name="SignupButton"
+                        TranslationX="50"
+                        Opacity="0"
+                        HeightRequest="60"
+                        BackgroundColor="Transparent"
+                        BorderColor="#B86B77"
+                        BorderWidth="3"                     
+                        CornerRadius="5"
+                        Text="SIGN UP"
+                        TextColor="#B86B77"
+                        HorizontalOptions="FillAndExpand"
+                        Command="{Binding SignUpCommand}"/>
+                </StackLayout>
+            </StackLayout>
+        </StackLayout>
+    </AbsoluteLayout>
+</ContentPage>
